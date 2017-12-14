@@ -1,0 +1,26 @@
+ioq3 1.36 linux-x86_64 Apr 12 2009
+----- FS_Startup -----
+Current search path:
+/home/ric/.q3a/baseq3
+./baseq3/pak8.pk3 (9 files)
+./baseq3/pak7.pk3 (4 files)
+./baseq3/pak6.pk3 (64 files)
+./baseq3/pak5.pk3 (7 files)
+./baseq3/pak4.pk3 (272 files)
+./baseq3/pak3.pk3 (4 files)
+./baseq3/pak2.pk3 (148 files)
+./baseq3/pak1.pk3 (26 files)
+./baseq3
+
+----------------------
+534 files in pk3 files
+
+
+pak0.pk3 is missing. Please copy it
+from your legitimate Q3 CDROM.
+
+
+Also check that your Q3 executable is in
+the correct place and that every file
+in the baseq3 directory is present and readable.
+You need to install Quake III Arena in order to play

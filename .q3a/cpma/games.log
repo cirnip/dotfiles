@@ -1,0 +1,1699 @@
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\CPM15\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.3 ClientConnect: 0
+0.3 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.5 ClientConnect: 1
+0.5 ClientUserinfoChanged: 1 n\50^5.^4Keel^7\t\3\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\50.00
+0.5 ClientBegin: 1
+0.6 ClientUserinfoChanged: 1 n\50^5.^4Keel^7\t\0\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\50.00
+0.6 ClientBegin: 1
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+0.6 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+3.5 Item: 1 item_health_mega
+4.3 Item: 1 item_health_small
+4.5 Item: 1 item_health_small
+5.0 Item: 1 ammo_lightning
+5.2 Item: 1 ammo_rockets
+8.7 Item: 1 item_armor_combat
+11.3 Item: 1 item_health_small
+12.0 Item: 1 item_health_small
+24.6 Item: 1 item_health_small
+30.7 Item: 1 item_health_small
+32.4 Item: 1 item_health_small
+72.7 Item: 0 item_health
+73.9 Item: 0 weapon_shotgun
+74.1 Item: 0 item_health_small
+74.8 Item: 0 item_health_small
+78.1 Item: 1 weapon_rocketlauncher
+80.3 Item: 1 item_health_small
+81.0 Item: 1 item_health_small
+84.9 Item: 0 item_armor_shard
+85.0 Item: 0 item_armor_shard
+85.1 Item: 0 item_armor_shard
+85.2 Item: 0 item_armor_shard
+85.5 Item: 0 weapon_lightning
+88.5 Item: 0 item_health_small
+88.7 Item: 0 item_health_small
+88.8 Item: 0 item_health_small
+100.2 Item: 1 item_armor_combat
+103.2 Item: 1 item_health_small
+103.7 Item: 1 item_health_small
+103.9 Item: 0 item_health
+107.4 Item: 1 weapon_rocketlauncher
+119.8 Item: 1 item_health_mega
+120.6 Item: 1 item_health_small
+121.1 Item: 0 item_health
+121.2 Item: 1 ammo_lightning
+121.8 Item: 1 item_health_small
+121.9 Item: 1 item_health_small
+125.1 Item: 1 item_armor_shard
+125.3 Item: 1 item_armor_shard
+125.5 Item: 1 weapon_rocketlauncher
+125.7 Item: 1 item_armor_shard
+125.8 Item: 1 item_armor_shard
+127.5 Item: 1 item_armor_combat
+135.7 Item: 1 item_armor_combat
+152.3 Item: 0 item_health_large
+156.8 Item: 1 item_health_small
+156.9 Item: 1 item_health_small
+160.0 Item: 1 item_armor_shard
+160.2 Item: 1 item_armor_shard
+160.4 Item: 1 weapon_rocketlauncher
+160.5 Item: 1 item_armor_shard
+163.4 Item: 1 item_armor_combat
+166.9 Item: 0 item_armor_shard
+169.0 Item: 1 item_health_mega
+173.1 Item: 0 weapon_plasmagun
+173.7 Item: 1 ammo_lightning
+174.0 Item: 1 ammo_rockets
+177.9 Item: 1 item_armor_combat
+179.9 Item: 0 item_health
+180.5 Item: 1 item_health_small
+181.0 Item: 1 item_health_small
+181.1 Item: 1 item_health_small
+185.4 Item: 1 item_health_small
+187.0 Item: 0 weapon_rocketlauncher
+203.0 Item: 1 item_armor_shard
+203.2 Item: 1 item_armor_shard
+203.4 Item: 1 weapon_rocketlauncher
+203.5 Item: 1 item_armor_shard
+203.7 Item: 1 item_armor_shard
+205.1 Item: 1 item_armor_combat
+211.1 Item: 1 ammo_grenades
+212.4 Item: 1 weapon_shotgun
+212.5 Item: 1 item_health_small
+212.9 Item: 1 item_health_small
+218.8 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+233.1 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+260.1 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+265.5 Item: 0 item_health
+268.0 Item: 0 item_health_small
+276.8 Item: 1 item_health_small
+276.9 Item: 1 item_health_small
+277.0 Item: 1 item_health_small
+277.3 Item: 1 ammo_lightning
+277.5 Item: 1 ammo_0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\pukka3tourney2\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.4 ClientConnect: 0
+0.4 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+0.7 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.7 ClientBegin: 0
+4.5 Item: 0 weapon_railgun
+9.6 Item: 0 weapon_railgun
+12.3 Item: 0 item_health_small
+12.4 Item: 0 item_health_small
+12.5 Item: 0 item_health_small
+19.5 Item: 0 weapon_grenadelauncher
+32.8 Item: 0 item_armor_combat
+43.4 Item: 0 ammo_rockets
+46.1 Item: 0 weapon_lightning
+48.6 Item: 0 item_health
+51.2 Item: 0 item_armor_shard
+51.2 Item: 0 item_armor_shard
+64.2 ShutdownGame:
+64.2 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\1\protocol\68\mapname\hektik_b3\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\Score_Time\Warmup\Score_Red\0\Score_Blue\0\Players_Active\1 \GTV_CN\1\g_needpass\0\mode_current\1V1
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.2 ClientConnect: 0
+0.2 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+6.8 Item: 0 item_armor_body
+22.9 Item: 0 weapon_lightning
+27.6 Item: 0 weapon_plasmagun
+33.4 Item: 0 weapon_rocketlauncher
+37.9 Item: 0 weapon_rocketlauncher
+42.1 Item: 0 item_health_mega
+43.2 Item: 0 weapon_shotgun
+62.9 Item: 0 weapon_shotgun
+76.4 Item: 0 weapon_grenadelauncher
+78.6 Item: 0 item_armor_body
+87.6 Item: 0 weapon_railgun
+92.3 Item: 0 weapon_rocketlauncher
+100.1 Item: 0 item_armor_shard
+100.2 Item: 0 item_health_small
+100.4 Item: 0 item_armor_shard
+102.4 ClientConnect: 1
+102.4 ClientUserinfoChanged: 1 n\Bitterman\t\3\model\bitterman\c1\n\hc\50\w\0\l\0\a\0\nick\Bitte\c\0\skill\1.00
+102.4 ClientConnect: 2
+102.4 ClientUserinfoChanged: 2 n\Bitterman\t\3\model\bitterman\c1\n\hc\50\w\0\l\0\a\0\nick\Bitte\c\0\skill\1.00
+102.4 ClientConnect: 3
+102.4 ClientUserinfoChanged: 3 n\Bitterman\t\3\model\bitterman\c1\n\hc\50\w\0\l\0\a\0\nick\Bitte\c\0\skill\1.00
+102.4 ClientConnect: 4
+102.4 ClientUserinfoChanged: 4 n\Bitterman\t\3\model\bitterman\c1\n\hc\50\w\0\l\0\a\0\nick\Bitte\c\0\skill\1.00
+103.4 ClientBegin: 1
+103.4 ClientUserinfoChanged: 1 n\Bitterman\t\0\model\bitterman\c1\n\hc\50\w\0\l\0\a\0\nick\Bitte\c\0\skill\1.00
+103.4 ClientBegin: 1
+104.9 ClientBegin: 2
+106.4 ClientBegin: 3
+107.9 ClientBegin: 4
+110.0 Item: 1 item_armor_combat
+115.0 Item: 0 weapon_lightning
+115.7 Item: 0 ammo_rockets
+119.0 Item: 0 weapon_shotgun
+125.3 Item: 1 weapon_rocketlauncher
+129.8 Item: 1 item_armor_shard
+129.9 Item: 1 item_armor_shard
+132.8 Item: 1 weapon_railgun
+135.2 Item: 1 item_health_large
+141.8 Item: 1 item_health_mega
+142.2 Item: 0 weapon_shotgun
+146.0 Item: 1 item_health
+146.4 Item: 0 ammo_cells
+146.6 Item: 0 ammo_rockets
+150.5 Item: 1 weapon_railgun
+164.3 Item: 0 ammo_cells
+165.7 Item: 0 weapon_grenadelauncher
+168.9 Item: 0 weapon_rocketlauncher
+170.5 Item: 1 item_health
+173.3 Item: 1 item_armor_shard
+183.9 Item: 1 weapon_railgun
+189.8 Item: 1 item_health_large
+190.5 Item: 1 ammo_grenades
+191.3 Item: 1 item_armor_shard
+191.5 Item: 1 item_armor_shard
+195.5 Item: 1 item_armor_combat
+197.8 Item: 1 weapon_lightning
+199.6 Item: 1 ammo_cells
+199.8 Item: 1 ammo_rockets
+209.2 Item: 1 item_armor_shard
+209.6 Item: 1 item_health_small
+212.8 Item: 1 item_armor_combat
+217.7 Item: 1 item_armor_shard
+262.8 Item: 1 weapon_lightning
+263.8 Item: 1 item_armor_shard
+264.2 Item: 1 item_health_small
+264.5 Item: 1 item_armor_shard
+279.0 Item: 1 weapon_railgun
+291.0 Item: 1 ammo_grenades
+296.1 Item: 0 weapon_shotgun
+296.6 Item: 1 item_health
+305.0 Item: 0 item_armor_body
+307.1 Item: 1 item_health_mega
+311.9 Item: 1 ammo_cells
+312.1 Item: 1 ammo_rockets
+317.7 Item: 0 weapon_grenadelauncher
+318.4 Item: 1 item_armor_shard
+319.5 Item: 0 weapon_railgun
+324.6 Item: 1 item_health
+329.3 Item: 1 item_armor_combat
+331.8 Item: 0 item_health
+332.0 Item: 0 item_health
+334.7 Item: 1 item_armor_shard
+336.4 Item: 1 item_health_small
+339.8 Item: 0 item_armor_shard
+340.5 Item: 0 weapon_lightning
+346.2 Item: 0 weapon_rocketlauncher
+347.6 Item: 1 item_armor_shard
+347.8 Item: 1 item_armor_shard
+352.4 Item: 1 item_health_large
+359.3 Item: 0 weapon_railgun
+361.7 Item: 0 item_armor_combat
+365.1 Item: 1 item_health
+365.3 Item: 1 item_health
+365.5 ShutdownGame:
+365.5 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\CPM15\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.3 ClientConnect: 0
+0.3 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.5 ClientConnect: 1
+0.5 ClientUserinfoChanged: 1 n\70^5.^4Keel^7\t\3\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\70.00
+0.5 ClientBegin: 1
+0.6 ClientUserinfoChanged: 1 n\70^5.^4Keel^7\t\0\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\70.00
+0.6 ClientBegin: 1
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+0.6 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+1.3 Item: 0 weapon_plasmagun
+5.0 Item: 1 weapon_lightning
+10.8 Item: 0 item_armor_shard
+11.0 Item: 0 item_armor_shard
+11.1 Item: 0 item_armor_shard
+11.5 Item: 0 item_armor_shard
+16.0 Item: 1 item_health_mega
+16.3 Item: 0 item_health_small
+16.4 Item: 0 item_health_small
+16.6 Item: 0 item_health_small
+17.5 Game_Start: 1v1 in arena 0
+18.8 Item: 0 item_health_small
+18.9 Item: 0 item_health_small
+19.0 Item: 0 item_health_small
+20.1 Item: 0 item_health_mega
+20.4 Item: 1 item_health_small
+20.5 Item: 1 weapon_shotgun
+20.7 Item: 1 item_health_small
+22.7 Item: 1 weapon_plasmagun
+22.7 Item: 0 item_armor_shard
+22.8 Item: 0 item_armor_shard
+23.0 Item: 0 weapon_rocketlauncher
+23.2 Item: 0 item_armor_shard
+23.4 Item: 0 item_armor_shard
+24.8 Item: 0 item_armor_combat
+26.4 Item: 1 weapon_rocketlauncher
+29.9 Item: 1 item_armor_combat
+33.2 Item: 1 item_health_small
+33.8 Item: 0 item_armor_shard
+33.9 Item: 0 item_armor_shard
+34.0 Item: 1 item_health_small
+34.1 Item: 0 item_armor_shard
+34.2 Item: 0 item_armor_shard
+34.3 Item: 1 item_health_small
+34.4 Item: 0 weapon_lightning
+38.2 Item: 0 ammo_lightning
+38.4 Item: 0 ammo_rockets
+39.1 Item: 1 weapon_railgun
+39.7 Item: 0 ammo_grenades
+39.8 Item: 0 ammo_rockets
+40.5 Item: 1 item_armor_shard
+40.8 Item: 1 weapon_grenadelauncher
+41.8 Item: 1 item_armor_shard
+48.2 Item: 1 item_health_small
+49.7 Item: 0 weapon_lightning
+50.6 Item: 1 weapon_shotgun
+50.7 Item: 1 item_health_small
+51.1 Item: 1 item_health_small
+52.2 Item: 0 weapon_plasmagun
+54.5 Item: 1 item_armor_shard
+54.7 Item: 1 item_armor_shard
+54.8 Item: 1 weapon_rocketlauncher
+55.0 Item: 1 item_armor_shard
+55.1 Item: 1 item_armor_shard
+56.5 Item: 1 item_armor_combat
+60.7 Item: 1 weapon_railgun
+63.2 Item: 0 item_health_small
+63.4 Item: 0 item_health_small
+63.5 Item: 1 item_armor_combat
+63.5 Item: 0 item_health_small
+65.6 Item: 1 item_health_small
+66.0 Item: 1 item_health_small
+66.2 Item: 1 item_health_small
+66.3 Item: 1 item_health_small
+67.2 Item: 1 weapon_rocketlauncher
+69.9 Item: 0 weapon_shotgun
+70.4 Item: 1 item_health
+77.8 Item: 1 weapon_railgun
+79.7 Item: 1 item_health
+80.0 Item: 1 item_health
+81.1 Item: 1 item_armor_shard
+81.3 Item: 1 item_armor_shard
+81.5 Item: 0 ammo_lightning
+81.6 Item: 0 ammo_rockets
+82.9 Item: 0 ammo_grenades
+82.9 Item: 0 ammo_rockets
+85.4 Kill: 0 1 7: ric killed 70^5.^4Keel^7 by MOD_ROCKET_SPLASH 7 in arena 0
+86.4 Item: 0 weapon_railgun
+90.1 Item: 1 item_armor_shard
+90.5 Item: 1 item_armor_shard
+90.7 Item: 1 weapon_rocketlauncher
+90.8 Item: 1 item_armor_shard
+91.0 Item: 1 item_armor_shard
+92.3 Item: 1 item_armor_combat
+96.8 Item: 1 weapon_plasmagun
+97.8 Item: 0 item_health_large
+104.0 Item: 0 item_health_mega
+104.4 Item: 1 weapon_shotgun
+104.4 Item: 1 item_health_small
+104.5 Item: 1 item_health_small
+104.8 Item: 0 item_health_small
+104.9 Item: 1 item_health
+110.0 Item: 1 item_armor_shard
+110.2 Item: 1 item_armor_shard
+110.9 Item: 0 weapon_railgun
+112.5 Item: 1 item_health
+112.7 Item: 1 item_health
+117.3 Item: 1 weapon_grenadelauncher
+119.1 Kill: 0 1 7: ric killed 70^5.^4Keel^7 by MOD_ROCKET_SPLASH 8 in arena 0
+120.6 Item: 1 weapon_shotgun
+121.1 Item: 0 weapon_plasmagun
+122.6 Item: 1 item_health_small
+123.4 Item: 0 item_armor_combat
+123.7 Item: 1 weapon_rocketlauncher
+125.8 Item: 0 item_health_small
+126.1 Item: 0 item_health_small
+126.4 Item: 0 item_health_small
+126.7 Item: 0 item_health_small
+127.6 Item: 1 weapon_plasmagun
+133.5 Item: 0 item_health_small
+133.7 Item: 0 item_health_small
+135.0 Item: 1 item_armor_shard
+135.1 Item: 1 item_armor_shard
+135.2 Item: 1 item_armor_shard
+135.4 Item: 1 item_armor_shard
+135.4 Item: 0 item_health_mega
+135.7 Item: 1 weapon_lightning
+138.0 Item: 1 weapon_railgun
+139.7 Item: 1 item_armor_shard
+139.8 Item: 0 item_armor_shard
+139.9 Item: 1 weapon_grenadelauncher
+140.0 Item: 0 item_armor_shard
+140.2 Item: 0 weapon_rocketlauncher
+140.4 Item: 0 item_armor_shard
+140.6 Item: 0 item_armor_shard
+140.8 Item: 1 item_armor_shard
+142.0 Item: 0 item_armor_combat
+145.1 Item: 1 item_health
+147.6 Item: 1 item_health
+148.7 Kill: 0 1 10: ric killed 70^5.^4Keel^7 by MOD_RAILGUN 7 in arena 0
+149.9 Item: 0 weapon_railgun
+150.5 Item: 1 item_health_small
+150.7 Item: 1 weapon_shotgun
+150.9 Item: 1 item_health_small
+153.1 Item: 0 item_armor_combat
+154.2 Item: 1 weapon_rocketlauncher
+156.2 Item: 1 item_health_small
+157.6 Kill: 1 0 7: 70^5.^4Keel^7 killed ric by MOD_ROCKET_SPLASH 5 in arena 0
+159.2 Item: 1 item_health
+159.3 Item: 0 weapon_railgun
+161.3 Item: 0 weapon_grenadelauncher
+162.0 Item: 1 weapon_plasmagun
+165.5 Item: 1 ammo_grenades
+165.7 Item: 1 ammo_rockets
+170.7 Item: 0 item_health_small
+170.7 Item: 0 item_health_small
+170.8 Item: 0 item_health_small
+171.5 Item: 0 ammo_rockets
+171.7 Item: 0 ammo_lightning
+174.1 say: ric: ^aDropped ^yFlag for ^e#n
+174.7 Item: 0 item_armor_shard
+174.9 Item: 0 item_armor_shard
+176.6 Item: 1 weapon_railgun
+177.9 Item: 1 item_health
+178.1 Item: 1 item_health
+180.2 Item: 0 item_health_mega
+181.1 Item: 1 weapon_grenadelauncher
+184.7 Item: 0 item_armor_shard
+184.9 Item: 0 item_armor_shard
+185.1 Item: 0 weapon_rocketlauncher
+185.3 Item: 0 item_armor_shard
+185.6 Item: 0 item_armor_shard
+187.0 Item: 0 item_armor_combat
+189.4 Item: 1 item_armor_combat
+189.4 Item: 0 item_health_small
+189.4 Item: 0 weapon_shotgun
+189.6 Item: 0 item_health_small
+194.4 Item: 1 weapon_railgun
+195.2 Kill: 0 1 10: ric killed 70^5.^4Keel^7 by MOD_RAILGUN 7 in arena 0
+197.1 Item: 0 weapon_railgun
+199.0 Item: 1 weapon_lightning
+199.1 Item: 0 weapon_grenadelauncher
+199.2 Item: 1 item_armor_shard
+199.3 Item: 1 item_armor_shard
+199.5 Item: 1 item_armor_shard
+200.6 Item: 1 item_armor_shard
+215.5 Item: 0 weapon_lightning
+215.8 Kill: 0 1 6: ric killed 70^5.^4Keel^7 by MOD_ROCKET 2 in arena 0
+216.1 Item: 0 ammo_bullets
+217.5 Item: 1 item_armor_combat
+220.7 Item: 1 weapon_railgun
+223.8 Item: 0 item_health_small
+223.9 Item: 0 item_health_small
+224.0 Item: 0 item_health_small
+224.4 Item: 0 ammo_lightning
+224.5 Item: 0 ammo_rockets
+225.6 Item: 0 ammo_grenades
+226.1 Item: 1 item_armor_shard
+226.2 Item: 1 item_armor_shard
+228.9 Item: 1 item_armor_shard
+229.1 Item: 1 item_armor_shard
+229.1 Item: 0 item_health_large
+232.8 Item: 1 weapon_lightning
+235.5 Item: 0 item_armor_shard
+235.7 Item: 0 item_armor_shard
+236.1 Item: 1 item_health_mega
+237.3 Item: 0 item_health
+239.0 Item: 1 item_armor_shard
+239.2 Item: 1 item_armor_shard
+239.3 Item: 1 weapon_rocketlauncher
+239.5 Item: 1 item_armor_shard
+239.6 Item: 1 item_armor_shard
+246.9 Item: 1 item_health_small
+247.0 Item: 1 weapon_shotgun
+247.2 Item: 1 item_health_small
+249.1 Item: 1 weapon_plasmagun
+254.7 Item: 0 weapon_rocketlauncher
+256.3 Item: 0 item_armor_combat
+260.1 Item: 1 item_armor_combat
+263.1 Item: 1 weapon_railgun
+264.5 Item: 1 item_armor_shard
+264.8 Item: 1 weapon_grenadelauncher
+265.6 Item: 0 item_health_small
+265.7 Item: 1 item_armor_shard
+265.8 Item: 0 item_health_small
+273.1 Kill: 1 0 10: 70^5.^4Keel^7 killed ric by MOD_RAILGUN 5 in arena 0
+274.4 Item: 1 weapon_lightning
+274.6 Item: 1 item_armor_shard
+274.8 Item: 1 item_armor_shard
+274.9 Item: 1 item_armor_shard
+275.1 Item: 1 item_armor_shard
+277.0 Item: 1 weapon_plasmagun
+279.2 Item: 1 ammo_grenades
+279.3 Item: 0 weapon_rocketlauncher
+279.4 Item: 1 ammo_rockets
+281.4 Item: 0 item_health_small
+281.7 Item: 0 ammo_lightning
+281.8 Item: 0 ammo_rockets
+290.6 Kill: 1 0 7: 70^5.^4Keel^7 killed ric by MOD_ROCKET_SPLASH 5 in arena 0
+290.9 Item: 1 weapon_rocketlauncher
+292.7 Item: 0 item_armor_combat
+300.0 Item: 0 item_health_small
+300.1 Item: 0 item_health_small
+300.3 Item: 1 item_health
+303.4 Item: 0 item_armor_shard
+303.7 Item: 0 item_armor_shard
+303.7 Item: 0 weapon_rocketlauncher
+303.9 Item: 0 item_armor_shard
+304.1 Item: 0 item_armor_shard
+304.8 Item: 1 item_health_large
+307.9 Item: 0 item_armor_combat
+315.1 Item: 0 item_health_small
+315.3 Item: 0 weapon_shotgun
+315.5 Item: 0 item_health_small
+317.3 Item: 0 weapon_rocketlauncher
+319.3 Item: 0 item_armor_combat
+320.4 Item: 1 item_health_mega
+325.9 Item: 1 weapon_rocketlauncher
+329.1 Item: 1 item_armor_shard
+330.5 Item: 1 item_armor_shard
+330.7 Item: 1 item_armor_shard
+331.5 Item: 0 item_armor_shard
+331.5 Item: 1 item_armor_shard
+331.6 Item: 0 item_armor_shard
+334.0 Item: 1 item_health
+334.3 Item: 1 item_health
+337.0 Item: 0 item_health_small
+337.2 Item: 0 item_health_small
+337.4 Item: 0 item_health_small
+337.6 Item: 0 item_health_small
+337.8 Item: 0 item_health_small
+338.9 Item: 0 weapon_rocketlauncher
+339.0 Item: 1 weapon_railgun
+340.5 Item: 0 item_health
+340.7 Item: 0 weapon_shotgun
+343.4 Item: 0 weapon_plasmagun
+344.2 Item: 1 weapon_lightning
+344.9 Item: 0 item_armor_shard
+345.2 Item: 0 item_armor_shard
+345.3 Item: 0 item_armor_shard
+345.4 Item: 0 item_armor_shard
+348.8 Item: 1 item_armor_combat
+356.1 Item: 0 weapon_railgun
+356.6 Item: 1 item_health_large
+357.8 Item: 0 item_armor_shard
+358.0 Item: 0 item_armor_shard
+360.7 Item: 1 item_health_mega
+367.9 Item: 0 item_health
+368.1 Item: 0 item_health
+372.8 Item: 1 item_health_small
+374.2 Item: 1 weapon_rocketlauncher
+375.1 Item: 0 ammo_grenades
+375.2 Item: 0 ammo_rockets
+377.0 Item: 1 item_armor_combat
+377.6 Item: 0 item_health_small
+377.7 Item: 0 weapon_shotgun
+377.9 Item: 0 item_health_small
+380.7 Item: 1 weapon_railgun
+383.2 Item: 0 item_health_small
+383.3 Item: 0 item_health_small
+383.5 Item: 0 item_health_small
+387.3 Item: 0 item_armor_shard
+387.5 Item: 0 item_armor_shard
+387.6 Item: 0 weapon_rocketlauncher
+387.7 Item: 0 item_armor_shard
+387.8 Item: 0 item_armor_shard
+389.2 Item: 0 item_armor_combat
+392.0 Item: 1 item_armor_shard
+392.2 Item: 1 item_armor_shard
+401.4 Item: 0 weapon_railgun
+403.7 Item: 1 weapon_lightning
+404.0 Item: 1 item_armor_shard
+405.6 Item: 0 item_health_large
+409.6 Item: 1 item_health
+411.7 Item: 0 ammo_lightning
+411.9 Item: 0 ammo_rockets
+413.9 Item: 0 item_health_small
+414.1 Item: 0 weapon_shotgun
+414.2 Item: 0 item_health_small
+416.1 Item: 1 item_armor_combat
+425.5 Kill: 1 0 8: 70^5.^4Keel^7 killed ric by MOD_PLASMA 5 in arena 0
+427.4 Item: 0 weapon_plasmagun
+428.0 Item: 1 weapon_rocketlauncher
+428.4 Item: 1 item_health_mega
+429.4 Item: 0 item_armor_shard
+429.5 Item: 0 item_armor_shard
+429.7 Item: 0 item_armor_shard
+429.8 Item: 0 item_armor_shard
+430.2 Item: 0 weapon_lightning
+431.1 Item: 1 item_armor_shard
+431.3 Item: 1 item_armor_shard
+431.7 Item: 1 item_armor_shard
+431.9 Item: 1 item_armor_shard
+434.2 Item: 1 item_armor_combat
+435.8 Item: 0 item_health_small
+440.0 Item: 1 weapon_railgun
+440.4 Item: 0 item_health
+441.9 Item: 0 item_health_small
+442.1 Item: 0 item_health_small
+442.6 Item: 0 item_health_small
+442.9 Item: 0 item_health_small
+443.8 Item: 1 item_armor_combat
+444.7 Item: 0 item_health_small
+446.1 Item: 0 weapon_rocketlauncher
+448.2 Item: 0 item_health_small
+448.2 Item: 0 weapon_shotgun
+448.4 Item: 0 item_health_small
+453.5 Item: 0 item_health_small
+453.6 Item: 0 item_health_small
+454.0 Item: 0 ammo_lightning
+454.1 Item: 0 ammo_rockets
+466.3 Item: 0 item_armor_shard
+466.3 Item: 0 weapon_rocketlauncher
+466.5 Item: 0 item_armor_shard
+466.6 Item: 0 item_armor_shard
+467.5 Item: 1 weapon_railgun
+468.0 Item: 0 item_armor_combat
+469.1 Item: 1 item_health
+469.2 Item: 1 item_health
+471.5 Kill: 0 0 7: ric killed ric by MOD_ROCKET_SPLASH 5 in arena 0
+473.9 Item: 1 item_armor_shard
+473.9 Item: 0 item_armor_combat
+474.0 Item: 1 item_armor_shard
+480.8 Item: 0 item_health_mega
+483.5 Item: 0 weapon_rocketlauncher
+483.9 Item: 1 item_health_large
+488.6 Kill: 0 1 6: ric killed 70^5.^4Keel^7 by MOD_ROCKET 7 in arena 0
+489.6 Item: 0 weapon_railgun
+492.3 Item: 1 item_health_small
+492.7 Item: 1 item_health_small
+493.2 Item: 0 weapon_lightning
+493.6 Item: 0 item_armor_shard
+493.7 Item: 1 weapon_rocketlauncher
+493.7 Item: 0 item_armor_shard
+493.9 Item: 0 item_armor_shard
+494.0 Item: 0 item_armor_shard
+495.4 Item: 1 item_health_small
+495.5 Item: 1 weapon_shotgun
+495.6 Item: 1 item_health_small
+495.6 Item: 0 weapon_plasmagun
+498.8 Item: 1 item_armor_shard
+499.0 Item: 1 item_armor_shard
+499.1 Item: 1 weapon_rocketlauncher
+499.3 Item: 1 item_armor_shard
+499.4 Item: 1 item_armor_shard
+501.2 Item: 1 item_armor_combat
+509.2 Kill: 1 1 7: 70^5.^4Keel^7 killed 70^5.^4Keel^7 by MOD_ROCKET_SPLASH 5 in arena 0
+510.7 Item: 1 weapon_plasmagun
+515.2 Item: 0 weapon_rocketlauncher
+515.6 Item: 1 weapon_shotgun
+517.2 Item: 0 item_armor_combat
+518.2 Item: 1 ammo_grenades
+518.5 Item: 1 ammo_rockets
+521.5 Item: 1 item_armor_shard
+521.7 Item: 1 item_armor_shard
+521.9 Item: 1 weapon_grenadelauncher
+525.9 Kill: 0 1 7: ric killed 70^5.^4Keel^7 by MOD_ROCKET_SPLASH 4 in arena 0
+527.0 Item: 1 weapon_plasmagun
+528.9 Item: 1 item_armor_shard
+529.1 Item: 1 item_armor_shard
+529.2 Item: 1 item_armor_shard
+529.3 Item: 1 item_armor_shard
+529.7 Item: 1 weapon_lightning
+531.0 Item: 0 weapon_railgun
+536.6 Kill: 0 1 8: ric killed 70^5.^4Keel^7 by MOD_PLASMA 6 in arena 0
+537.4 Item: 0 ammo_cells
+537.9 Item: 1 weapon_shotgun
+537.9 Item: 1 item_health_small
+538.0 Item: 1 item_health_small
+540.1 Item: 1 weapon_rocketlauncher
+541.6 Item: 1 item_health_small
+542.1 Item: 1 item_health_small
+542.9 Item: 0 item_health_small
+543.0 Item: 0 item_health_small
+543.1 Item: 0 item_health_small
+543.4 Item: 0 ammo_lightning
+543.6 Item: 0 ammo_rockets
+546.1 Item: 1 item_armor_combat
+546.9 Item: 0 weapon_grenadelauncher
+548.7 Item: 0 item_armor_shard
+549.0 Item: 0 item_armor_shard
+549.0 Item: 0 weapon_rocketlauncher
+549.2 Item: 0 item_armor_shard
+549.3 Item: 0 item_armor_shard
+550.8 Item: 0 item_armor_combat
+552.3 Item: 1 item_health_mega
+555.6 Item: 1 weapon_lightning
+555.9 Item: 1 item_armor_shard
+556.2 Item: 1 item_armor_shard
+556.6 Item: 1 item_armor_shard
+556.8 Item: 1 item_armor_shard
+558.9 Item: 0 item_health_large
+561.9 Item: 1 weapon_plasmagun
+565.3 Item: 1 weapon_rocketlauncher
+568.0 Item: 0 weapon_rocketlauncher
+571.3 Item: 1 weapon_railgun
+573.0 Kill: 1 0 10: 70^5.^4Keel^7 killed ric by MOD_RAILGUN 5 in arena 0
+575.4 Item: 1 weapon_rocketlauncher
+577.8 Item: 1 item_armor_combat
+578.9 Item: 0 weapon_lightning
+581.5 Kill: 1 0 10: 70^5.^4Keel^7 killed ric by MOD_RAILGUN 6 in arena 0
+583.6 Item: 0 item_health_small
+583.7 Item: 0 weapon_shotgun
+583.9 Item: 0 item_health_small
+585.2 Item: 1 weapon_lightning
+588.2 Item: 0 item_health_small
+588.3 Item: 0 item_health_small
+588.4 Item: 0 item_health_small
+588.9 Item: 1 item_armor_shard
+590.9 Item: 0 weapon_railgun
+595.1 Item: 0 item_health_small
+595.3 Item: 0 item_health_small
+595.4 Item: 0 item_health_small
+595.6 Item: 0 item_health_small
+595.8 Item: 0 item_health_small
+599.3 Item: 1 weapon_lightning
+600.0 Item: 1 item_armor_shard
+600.1 Item: 1 item_armor_shard
+600.2 Item: 1 item_armor_shard
+606.9 Item: 0 item_armor_body
+614.6 Item: 0 item_armor_shard
+615.0 Item: 0 weapon_lightning
+617.5 Exit: Timelimit hit in arena 0
+617.5 score: 7  ping: 0  client: 0 ric
+617.5 score: 5  ping: 0  client: 1 70^5.^4Keel^7
+617.5 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\1\l\0\a\0\f\0\nick\\c\0
+617.5 ClientUserinfoChanged: 1 n\70^5.^4Keel^7\t\0\model\keel\c1\n\hc\100\w\0\l\1\a\0\nick\Keel\c\0\skill\70.00
+617.5 say: 70^5.^4Keel^7: gg
+624.9 ShutdownGame:
+624.9 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\CPM15\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.3 ClientConnect: 0
+0.3 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.5 ClientConnect: 1
+0.5 ClientUserinfoChanged: 1 n\70^5.^4Keel^7\t\3\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\70.00
+0.5 ClientBegin: 1
+0.6 ClientUserinfoChanged: 1 n\70^5.^4Keel^7\t\0\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\70.00
+0.6 ClientBegin: 1
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientBegin: 0
+0.8 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientBegin: 0
+1.4 Item: 1 item_health_mega
+2.2 Item: 1 item_health_small
+2.5 Item: 1 item_health_small
+3.3 Item: 1 ammo_lightning
+3.6 Item: 1 ammo_rockets
+7.2 Item: 1 item_armor_combat
+14.6 Item: 1 item_armor_shard
+20.5 Item: 0 item_armor_shard
+20.8 Item: 0 weapon_grenadelauncher
+30.4 Item: 0 item_health_small
+34.3 Item: 1 weapon_lightning
+39.9 Item: 0 item_health_large
+44.0 Item: 0 item_armor_shard
+44.1 Item: 0 item_armor_shard
+44.2 Item: 0 item_armor_shard
+44.5 Item: 0 item_armor_shard
+46.0 Item: 1 item_armor_shard
+46.2 Item: 1 item_armor_shard
+48.3 Item: 0 item_armor_body
+51.9 Item: 1 weapon_lightning
+76.5 Item: 0 item_health_large
+84.5 Item: 0 item_health_small
+84.7 Item: 0 item_health_small
+84.8 Item: 0 item_health_small
+85.1 Item: 1 item_armor_combat
+85.3 Item: 0 ammo_lightning
+85.5 Item: 0 ammo_rockets
+87.6 Item: 1 item_health_small
+88.0 Item: 1 item_health_small
+88.5 Item: 1 item_health_small
+89.5 Item: 1 weapon_rocketlauncher
+90.2 Item: 0 weapon_grenadelauncher
+90.5 Item: 0 item_armor_shard
+91.2 Item: 1 item_health_small
+91.3 Item: 1 weapon_shotgun
+91.4 Item: 1 item_health_small
+93.2 Item: 1 ammo_grenades
+97.3 Item: 1 item_armor_shard
+97.4 Item: 1 item_armor_shard
+97.6 Item: 1 weapon_rocketlauncher
+97.7 Item: 1 item_armor_shard
+97.9 Item: 1 item_armor_shard
+103.0 Item: 0 item_armor_body
+105.0 Item: 1 weapon_plasmagun
+106.9 Item: 0 weapon_lightning
+115.9 Item: 0 item_health_small
+118.9 Item: 0 weapon_rocketlauncher
+120.5 ShutdownGame:
+120.5 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\CPM10\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.3 ClientConnect: 0
+0.3 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.5 ClientConnect: 1
+0.5 ClientUserinfoChanged: 1 n\70^5.^4Doom^7\t\3\model\doom\c1\n\hc\100\w\0\l\0\a\0\nick\Doom\c\0\skill\70.00
+0.5 ClientBegin: 1
+0.6 ClientUserinfoChanged: 1 n\70^5.^4Doom^7\t\0\model\doom\c1\n\hc\100\w\0\l\0\a\0\nick\Doom\c\0\skill\70.00
+0.6 ClientBegin: 1
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientBegin: 0
+0.8 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientBegin: 0
+3.2 Item: 1 item_health_small
+3.4 Item: 1 item_armor_shard
+3.6 Item: 1 item_health_small
+3.7 Item: 1 item_armor_shard
+3.8 Item: 1 item_health_small
+9.6 ShutdownGame:
+9.6 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\CPM10\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.3 ClientConnect: 0
+0.3 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.5 ClientConnect: 1
+0.5 ClientUserinfoChanged: 1 n\70^5.^4Doom^7\t\3\model\doom\c1\n\hc\100\w\0\l\0\a\0\nick\Doom\c\0\skill\70.00
+0.5 ClientBegin: 1
+0.6 ClientUserinfoChanged: 1 n\70^5.^4Doom^7\t\0\model\doom\c1\n\hc\100\w\0\l\0\a\0\nick\Doom\c\0\skill\70.00
+0.6 ClientBegin: 1
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+0.6 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+6.0 Item: 0 item_health_mega
+8.6 Item: 1 item_armor_combat
+10.3 Item: 1 ammo_lightning
+11.4 Item: 0 weapon_shotgun
+12.3 Item: 1 item_health_small
+12.4 Item: 1 item_health_small
+14.2 Game_Start: 1v1 in arena 0
+18.6 ShutdownGame:
+18.6 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\CPM10\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.3 ClientConnect: 0
+0.3 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.5 ClientConnect: 1
+0.5 ClientUserinfoChanged: 1 n\70^5.^4Doom^7\t\3\model\doom\c1\n\hc\100\w\0\l\0\a\0\nick\Doom\c\0\skill\70.00
+0.5 ClientBegin: 1
+0.6 ClientUserinfoChanged: 1 n\70^5.^4Doom^7\t\0\model\doom\c1\n\hc\100\w\0\l\0\a\0\nick\Doom\c\0\skill\70.00
+0.6 ClientBegin: 1
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+0.6 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+4.8 Item: 1 ammo_lightning
+8.8 ShutdownGame:
+8.8 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\CPM15\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.3 ClientConnect: 0
+0.3 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.5 ClientConnect: 1
+0.5 ClientUserinfoChanged: 1 n\70^5.^4Keel^7\t\3\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\70.00
+0.5 ClientBegin: 1
+0.6 ClientUserinfoChanged: 1 n\70^5.^4Keel^7\t\0\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\70.00
+0.6 ClientBegin: 1
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+0.6 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+1.3 Item: 1 item_armor_combat
+5.4 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+5.6 Item: 1 weapon_lightning
+5.9 Item: 1 item_armor_shard
+6.1 Item: 1 item_armor_shard
+14.8 Item: 1 item_health_mega
+15.6 Item: 1 item_health_small
+15.6 Item: 1 item_health_small
+15.8 Item: 1 item_health_small
+16.8 Item: 0 item_health
+17.0 Item: 0 item_health
+20.8 Item: 1 ammo_grenades
+25.3 Item: 1 item_armor_shard
+25.4 Item: 1 item_armor_shard
+25.6 Item: 1 weapon_rocketlauncher
+25.7 Item: 1 item_armor_shard
+27.5 Item: 1 item_armor_combat
+27.5 Item: 0 item_armor_shard
+27.7 Item: 0 item_armor_shard
+28.3 Item: 0 weapon_grenadelauncher
+29.5 Item: 0 item_health_large
+35.7 Item: 0 weapon_lightning
+35.9 Item: 0 item_armor_shard
+36.1 Item: 0 item_armor_shard
+36.3 Item: 0 item_armor_shard
+36.4 Item: 0 item_armor_shard
+47.3 Item: 1 item_armor_combat
+48.4 Item: 0 item_armor_body
+50.5 Item: 1 item_health_small
+51.1 Item: 1 item_health_small
+51.7 Item: 1 item_health_small
+54.5 Item: 1 weapon_rocketlauncher
+56.5 Item: 1 weapon_shotgun
+56.5 Item: 1 item_health_small
+56.8 Item: 1 item_health_small
+64.6 Item: 0 ammo_grenades
+64.7 Item: 0 ammo_rockets
+66.4 Item: 0 item_health_small
+66.6 Item: 0 item_health_small
+66.7 Item: 0 item_health_small
+69.0 Item: 1 weapon_lightning
+69.7 Item: 0 item_armor_shard
+70.1 Item: 0 weapon_grenadelauncher
+70.6 Item: 0 item_armor_shard
+78.1 Item: 1 item_health_large
+81.2 Item: 1 item_armor_combat
+83.2 Item: 0 item_health_mega
+91.5 Item: 1 item_health_small
+91.7 Item: 1 item_health_small
+91.8 Item: 1 item_health_small
+92.2 Item: 1 item_health_small
+92.4 Item: 1 item_health_small
+94.4 Item: 1 weapon_rocketlauncher
+95.0 Item: 0 item_armor_shard
+95.4 Item: 0 weapon_grenadelauncher
+96.0 Item: 1 item_health_small
+96.2 Item: 1 weapon_shotgun
+96.3 Item: 1 item_health_small
+101.5 Item: 1 item_armor_shard
+116.6 Item: 1 item_armor_combat
+121.8 Item: 1 item_health_small
+122.4 Item: 1 item_health_small
+122.7 Item: 1 item_health_small
+123.7 Item: 1 weapon_rocketlauncher
+131.8 Item: 0 item_health_small
+131.9 Item: 0 item_health_small
+132.1 Item: 0 item_health_small
+133.6 Item: 0 ammo_grenades
+144.5 Item: 1 item_armor_combat
+145.7 Item: 0 item_armor_shard
+151.0 Item: 0 item_armor_shard
+151.1 Item: 0 item_armor_shard
+151.3 Item: 0 weapon_rocketlauncher
+151.5 Item: 0 item_armor_shard
+151.6 Item: 0 item_armor_shard
+152.9 Item: 0 item_armor_combat
+154.3 Item: 1 weapon_lightning
+156.0 Item: 0 item_health_mega
+159.2 Item: 1 item_health_large
+163.1 Item: 1 item_armor_shard
+163.7 Item: 1 weapon_grenadelauncher
+164.7 Item: 0 item_health_small
+164.7 Item: 0 item_health_small
+171.0 Item: 1 item_armor_combat
+172.1 Item: 0 item_armor_shard
+176.1 Item: 1 item_health_small
+176.5 Item: 1 item_health_small
+176.6 Item: 1 item_health_small
+177.5 Item: 1 weapon_rocketlauncher
+179.5 Item: 0 weapon_grenadelauncher
+180.1 Item: 1 item_health_small
+180.3 Item: 1 weapon_shotgun
+180.6 Item: 1 item_health_small
+182.4 Item: 1 ammo_grenades
+185.7 Item: 1 ammo_rockets
+199.2 Item: 1 item_health_large
+202.3 Item: 0 item_health_small
+202.4 Item: 0 item_health_small
+203.1 Item: 0 item_health_small
+203.2 Item: 1 item_armor_combat
+205.2 Item: 0 item_armor_shard
+205.6 Item: 0 weapon_grenadelauncher
+206.3 Item: 0 item_armor_shard
+218.6 Item: 0 item_armor_shard
+218.8 Item: 0 item_armor_shard
+219.0 Item: 0 weapon_rocketlauncher
+219.2 Item: 0 item_armor_shard
+219.4 Item: 0 item_armor_shard
+221.8 Item: 0 weapon_plasmagun
+222.6 Item: 1 item_health_mega
+223.9 Item: 0 item_armor_shard
+224.1 Item: 0 item_armor_shard
+224.2 Item: 0 item_armor_shard
+224.5 Item: 0 item_armor_shard
+224.8 Item: 0 weapon_lightning
+225.7 Item: 1 ammo_lightning
+225.7 Item: 1 ammo_rockets
+233.5 Item: 1 item_armor_combat
+238.6 Item: 1 item_health_small
+239.7 Item: 0 weapon_rocketlauncher
+241.3 Item: 0 item_armor_combat
+248.0 Item: 0 item_health
+250.1 Item: 0 item_armor_shard
+250.2 Item: 0 item_armor_shard
+250.8 Item: 1 item_health_large
+257.3 Item: 0 item_armor_shard
+257.5 Item: 0 item_armor_shard
+257.6 Item: 0 weapon_rocketlauncher
+257.8 Item: 0 item_armor_shard
+257.9 Item: 0 item_armor_shard
+258.2 Item: 1 weapon_shotgun
+258.3 Item: 1 item_health_small
+259.7 Item: 1 ammo_grenades
+259.9 Item: 1 ammo_rockets
+264.5 Item: 0 weapon_plasmagun
+265.0 Item: 1 item_health_small
+265.2 Item: 1 item_health_small
+265.3 Item: 1 item_health_small
+265.9 Item: 1 item_health_mega
+267.0 Item: 0 item_armor_body
+267.7 Item: 1 ammo_rockets
+268.0 Item: 1 ammo_lightning
+271.5 Item: 1 item_armor_combat
+273.9 Item: 1 item_health_small
+274.5 Item: 1 item_health_small
+274.8 Item: 1 item_health_small
+278.0 Item: 1 weapon_rocketlauncher
+281.1 Item: 1 item_health_small
+284.9 Item: 0 item_armor_shard
+285.0 Item: 0 item_armor_shard
+285.2 Item: 0 weapon_rocketlauncher
+285.3 Item: 0 item_armor_shard
+285.5 Item: 0 item_armor_shard
+286.9 Item: 1 weapon_shotgun
+287.8 Item: 0 item_armor_shard
+288.1 Item: 0 item_armor_shard
+289.4 Item: 0 item_health_large
+293.1 Item: 1 item_armor_combat
+307.2 Item: 1 item_armor_combat
+307.6 Item: 0 item_health_small
+318.1 Item: 0 item_health
+318.6 Item: 0 item_health
+325.1 Item: 1 item_armor_shard
+325.9 Item: 1 item_armor_shard
+333.2 Item: 0 item_armor_shard
+334.9 Item: 0 item_armor_shard
+335.4 Item: 1 item_armor_combat
+338.3 Item: 0 item_health_large
+342.7 Item: 1 item_health_mega
+346.2 Item: 1 item_armor_shard
+346.3 Item: 1 weapon_rocketlauncher
+346.5 Item: 1 item_armor_shard
+348.0 Item: 1 item_armor_combat
+351.6 Item: 1 item_health_small
+351.7 Item: 1 weapon_shotgun
+351.9 Item: 1 item_health_small
+370.0 Item: 0 item_health_mega
+371.5 Item: 1 item_armor_combat
+375.5 Item: 1 item_health_small
+375.6 Item: 1 item_health_small
+375.9 Item: 1 item_health_small
+377.1 Item: 0 weapon_rocketlauncher
+381.8 Item: 1 weapon_plasmagun
+386.8 Item: 0 item_health
+391.5 ShutdownGame:
+391.5 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\OXODM14\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: FFA in arena 0
+0.3 ClientConnect: 0
+0.3 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.5 ClientConnect: 1
+0.5 ClientUserinfoChanged: 1 n\70^5.^4Hunter^7\t\0\model\hunter\c1\n\hc\100\w\0\l\0\a\0\nick\Hunte\c\0\skill\70.00
+0.5 ClientBegin: 1
+0.5 ClientConnect: 2
+0.5 ClientUserinfoChanged: 2 n\70^5.^4Major^7\t\0\model\major\c1\n\hc\100\w\0\l\0\a\0\nick\Major\c\0\skill\70.00
+0.5 ClientBegin: 2
+0.5 ClientConnect: 3
+0.5 ClientUserinfoChanged: 3 n\70^5.^4Xaero^7\t\0\model\xaero\c1\n\hc\100\w\0\l\0\a\0\nick\Xaero\c\0\skill\70.00
+0.5 ClientBegin: 3
+0.5 ClientConnect: 4
+0.5 ClientUserinfoChanged: 4 n\70^5.^4Cadavre^7\t\0\model\biker/cadavre\c1\n\hc\100\w\0\l\0\a\0\nick\Cadav\c\0\skill\70.00
+0.5 ClientBegin: 4
+0.5 ClientConnect: 5
+0.5 ClientUserinfoChanged: 5 n\70^5.^4Keel^7\t\0\model\keel\c1\n\hc\100\w\0\l\0\a\0\nick\Keel\c\0\skill\70.00
+0.5 ClientBegin: 5
+0.5 ClientConnect: 6
+0.5 ClientUserinfoChanged: 6 n\70^5.^4Biker^7\t\0\model\biker\c1\n\hc\100\w\0\l\0\a\0\nick\Biker\c\0\skill\70.00
+0.5 ClientBegin: 6
+0.6 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientBegin: 0
+1.4 Item: 4 ammo_rockets
+1.4 Item: 6 weapon_shotgun
+3.0 Item: 3 item_armor_combat
+3.9 Item: 2 item_armor_body
+5.3 Item: 5 item_health_mega
+5.6 Game_Start: FFA in arena 0
+5.9 Item: 3 weapon_grenadelauncher
+6.3 Item: 1 weapon_plasmagun
+6.4 Item: 4 weapon_shotgun
+6.5 Item: 5 item_armor_body
+7.0 Item: 6 weapon_lightning
+8.4 Item: 0 item_armor_combat
+9.6 Item: 0 weapon_railgun
+10.2 Item: 2 item_health_large
+10.4 Kill: 6 3 11: 70^5.^4Biker^7 killed 70^5.^4Xaero^7 by MOD_LIGHTNING 2 in arena 0
+10.6 Item: 1 item_health
+12.9 Item: 2 item_armor_shard
+13.0 Item: 2 item_armor_shard
+13.2 Item: 2 item_armor_shard
+13.4 Item: 2 item_armor_shard
+13.6 Item: 2 item_armor_shard
+14.6 Item: 0 weapon_grenadelauncher
+15.0 Item: 1 item_health
+15.3 Item: 6 item_health_mega
+16.6 Kill: 3 5 3: 70^5.^4Xaero^7 killed 70^5.^4Keel^7 by MOD_MACHINEGUN 1 in arena 0
+18.7 Kill: 3 4 3: 70^5.^4Xaero^7 killed 70^5.^4Cadavre^7 by MOD_MACHINEGUN 3 in arena 0
+19.8 Kill: 6 3 11: 70^5.^4Biker^7 killed 70^5.^4Xaero^7 by MOD_LIGHTNING 2 in arena 0
+20.4 Item: 6 weapon_plasmagun
+21.6 Kill: 1 5 8: 70^5.^4Hunter^7 killed 70^5.^4Keel^7 by MOD_PLASMA 2 in arena 0
+22.1 Kill: 0 2 10: ric killed 70^5.^4Major^7 by MOD_RAILGUN 1 in arena 0
+23.0 Item: 6 weapon_shotgun
+23.0 Item: 0 weapon_grenadelauncher
+23.2 Kill: 1022 1 19: <world> killed 70^5.^4Hunter^7 by MOD_FALLING 8 in arena 0
+24.3 Item: 2 weapon_plasmagun
+26.2 Item: 5 item_armor_combat
+28.6 Item: 3 item_health
+28.6 Kill: 0 1 10: ric killed 70^5.^4Hunter^7 by MOD_RAILGUN 2 in arena 0
+29.6 Item: 2 item_health
+30.4 Item: 5 item_quad
+30.4 Item: 0 weapon_lightning
+30.9 Item: 6 weapon_plasmagun
+32.7 Kill: 5 4 3: 70^5.^4Keel^7 killed 70^5.^4Cadavre^7 by MOD_MACHINEGUN 1 in arena 0
+33.7 Item: 1 item_health
+36.1 Item: 1 item_armor_combat
+38.6 Item: 2 item_health_small
+40.5 Item: 4 item_armor_shard
+40.5 Item: 0 item_armor_body
+40.6 Item: 4 item_armor_shard
+40.8 Item: 4 item_armor_shard
+40.9 Item: 4 item_armor_shard
+41.1 Item: 4 item_armor_shard
+41.8 Item: 6 weapon_grenadelauncher
+43.7 Item: 1 weapon_plasmagun
+44.9 Kill: 0 1 11: ric killed 70^5.^4Hunter^7 by MOD_LIGHTNING 8 in arena 0
+45.7 Item: 0 weapon_plasmagun
+46.6 Item: 3 item_health_mega
+48.0 Item: 1 ammo_rockets
+50.1 Kill: 6 4 8: 70^5.^4Biker^7 killed 70^5.^4Cadavre^7 by MOD_PLASMA 1 in arena 0
+50.1 Item: 1 weapon_grenadelauncher
+50.7 Kill: 6 2 8: 70^5.^4Biker^7 killed 70^5.^4Major^7 by MOD_PLASMA 8 in arena 0
+50.8 Item: 6 weapon_plasmagun
+52.8 Item: 2 weapon_lightning
+53.4 Item: 6 item_health_large
+53.5 Item: 4 weapon_plasmagun
+54.7 Kill: 2 6 11: 70^5.^4Major^7 killed 70^5.^4Biker^7 by MOD_LIGHTNING 8 in arena 0
+55.2 Item: 2 weapon_plasmagun
+56.0 Item: 5 weapon_railgun
+56.0 Item: 6 weapon_grenadelauncher
+59.9 Item: 3 item_armor_combat
+59.9 Kill: 0 2 10: ric killed 70^5.^4Major^7 by MOD_RAILGUN 6 in arena 0
+63.2 Item: 0 weapon_lightning
+65.1 Item: 4 weapon_shotgun
+68.7 Kill: 1 6 5: 70^5.^4Hunter^7 killed 70^5.^4Biker^7 by MOD_GRENADE_SPLASH 2 in arena 0
+68.8 Kill: 0 3 8: ric killed 70^5.^4Xaero^7 by MOD_PLASMA 1 in arena 0
+69.5 Item: 5 item_armor_combat
+70.0 Item: 2 weapon_grenadelauncher
+70.4 Item: 6 weapon_plasmagun
+70.5 Item: 1 item_health
+71.7 Item: 5 item_health
+73.5 Item: 3 weapon_lightning
+73.7 Kill: 5 0 10: 70^5.^4Keel^7 killed ric by MOD_RAILGUN 4 in arena 0
+75.1 Item: 6 weapon_shotgun
+76.0 Item: 4 item_health
+76.4 Item: 6 item_health
+78.3 Item: 0 ammo_grenades
+79.0 Item: 0 weapon_rocketlauncher
+80.3 Item: 6 weapon_plasmagun
+80.3 Item: 4 item_armor_shard
+80.8 Item: 1 item_health_mega
+80.9 Item: 0 weapon_shotgun
+82.2 Item: 0 item_armor_body
+83.7 Item: 6 item_health
+84.2 Item: 4 item_health_large
+85.2 Item: 6 weapon_lightning
+86.4 Kill: 4 6 8: 70^5.^4Cadavre^7 killed 70^5.^4Biker^7 by MOD_PLASMA 8 in arena 0
+86.5 Item: 2 item_armor_combat
+88.2 Kill: 2 1 3: 70^5.^4Major^7 killed 70^5.^4Hunter^7 by MOD_MACHINEGUN 4 in arena 0
+89.3 Item: 4 weapon_plasmagun
+89.4 Kill: 3 5 11: 70^5.^4Xaero^7 killed 70^5.^4Keel^7 by MOD_LIGHTNING 7 in arena 0
+90.0 Item: 1 weapon_grenadelauncher
+90.0 Item: 0 weapon_plasmagun
+91.3 Item: 3 weapon_railgun
+92.3 Kill: 3 5 10: 70^5.^4Xaero^7 killed 70^5.^4Keel^7 by MOD_RAILGUN 2 in arena 0
+92.3 Kill: 2 3 5: 70^5.^4Major^7 killed 70^5.^4Xaero^7 by MOD_GRENADE_SPLASH 7 in arena 0
+93.4 Item: 0 weapon_railgun
+94.7 Item: 6 weapon_grenadelauncher
+94.9 Item: 0 item_armor_shard
+95.1 Item: 0 item_armor_shard
+95.3 Item: 0 item_armor_shard
+95.4 Item: 0 item_armor_shard
+96.2 Item: 4 weapon_lightning
+99.0 Kill: 0 1 10: ric killed 70^5.^4Hunter^7 by MOD_RAILGUN 2 in arena 0
+104.0 Kill: 6 5 3: 70^5.^4Biker^7 killed 70^5.^4Keel^7 by MOD_MACHINEGUN 2 in arena 0
+104.9 Item: 6 item_health
+105.4 Item: 0 weapon_lightning
+107.2 Kill: 4 0 11: 70^5.^4Cadavre^7 killed ric by MOD_LIGHTNING 6 in arena 0
+107.7 Item: 1 item_armor_shard
+108.3 Item: 2 weapon_plasmagun
+108.9 Item: 4 weapon_grenadelauncher
+109.2 Item: 3 item_armor_body
+109.4 Kill: 3 2 3: 70^5.^4Xaero^7 killed 70^5.^4Major^7 by MOD_MACHINEGUN 8 in arena 0
+110.0 Item: 5 item_armor_combat
+111.6 Item: 6 weapon_lightning
+114.2 Item: 5 item_health
+115.5 Item: 3 weapon_plasmagun
+115.8 Item: 6 item_health_large
+115.9 Item: 3 weapon_plasmagun
+116.9 Item: 0 ammo_grenades
+117.1 Item: 3 item_health
+117.4 Item: 4 weapon_grenadelauncher
+118.2 Item: 0 weapon_lightning
+118.5 Item: 2 item_armor_combat
+118.5 Kill: 0 1 11: ric killed 70^5.^4Hunter^7 by MOD_LIGHTNING 1 in arena 0
+120.3 Kill: 4 1 11: 70^5.^4Cadavre^7 killed 70^5.^4Hunter^7 by MOD_LIGHTNING 2 in arena 0
+121.3 Item: 6 item_armor_shard
+121.4 Item: 6 item_armor_shard
+122.9 Item: 2 item_quad
+123.3 Kill: 2 4 3: 70^5.^4Major^7 killed 70^5.^4Cadavre^7 by MOD_MACHINEGUN 6 in arena 0
+123.8 Item: 6 item_health_mega
+125.9 Item: 4 weapon_shotgun
+126.9 Kill: 6 0 11: 70^5.^4Biker^7 killed ric by MOD_LIGHTNING 6 in arena 0
+128.1 Kill: 5 1 2: 70^5.^4Keel^7 killed 70^5.^4Hunter^7 by MOD_GAUNTLET 2 in arena 0
+129.9 Item: 6 item_armor_shard
+130.1 Kill: 5 3 2: 70^5.^4Keel^7 killed 70^5.^4Xaero^7 by MOD_GAUNTLET 8 in arena 0
+130.1 Item: 5 weapon_plasmagun
+130.1 Item: 6 item_armor_shard
+130.8 Item: 0 weapon_plasmagun
+134.9 Item: 0 item_armor_shard
+135.2 Kill: 4 5 1: 70^5.^4Cadavre^7 killed 70^5.^4Keel^7 by MOD_SHOTGUN 8 in arena 0
+135.5 Item: 4 weapon_plasmagun
+136.6 Kill: 0 2 8: ric killed 70^5.^4Major^7 by MOD_PLASMA 1 in arena 0
+137.0 Kill: 6 0 11: 70^5.^4Biker^7 killed ric by MOD_LIGHTNING 8 in arena 0
+137.3 Item: 4 weapon_grenadelauncher
+138.2 Item: 0 weapon_plasmagun
+139.2 Item: 6 item_health
+139.3 Kill: 0 5 8: ric killed 70^5.^4Keel^7 by MOD_PLASMA 2 in arena 0
+139.9 Item: 1 item_health
+141.9 Item: 5 weapon_lightning
+142.1 Kill: 0 3 8: ric killed 70^5.^4Xaero^7 by MOD_PLASMA 1 in arena 0
+142.9 Item: 1 weapon_shotgun
+143.6 Item: 0 item_armor_body
+145.1 Item: 0 weapon_plasmagun
+147.1 Item: 4 item_armor_combat
+147.1 Item: 0 ammo_grenades
+147.8 Kill: 2 6 3: 70^5.^4Major^7 killed 70^5.^4Biker^7 by MOD_MACHINEGUN 1 in arena 0
+148.1 Item: 5 item_armor_shard
+148.2 Item: 5 item_armor_shard
+148.8 Item: 0 item_health_large
+149.3 Kill: 3 1 3: 70^5.^4Xaero^7 killed 70^5.^4Hunter^7 by MOD_MACHINEGUN 3 in arena 0
+149.5 Item: 4 item_health
+149.7 Item: 3 weapon_shotgun
+150.2 Item: 5 item_armor_combat
+151.6 Kill: 0 2 8: ric killed 70^5.^4Major^7 by MOD_PLASMA 2 in arena 0
+152.9 Item: 0 item_quad
+153.1 Item: 1 weapon_plasmagun
+154.7 Kill: 1 3 8: 70^5.^4Hunter^7 killed 70^5.^4Xaero^7 by MOD_PLASMA 3 in arena 0
+154.8 Item: 1 weapon_shotgun
+155.2 Item: 6 weapon_shotgun
+156.9 Item: 5 weapon_plasmagun
+157.1 Item: 2 weapon_lightning
+157.3 Item: 1 item_health
+157.9 Item: 3 item_health
+160.7 Kill: 2 3 11: 70^5.^4Major^7 killed 70^5.^4Xaero^7 by MOD_LIGHTNING 2 in arena 0
+161.1 Item: 6 weapon_plasmagun
+161.7 Item: 3 weapon_grenadelauncher
+162.4 Item: 2 item_health
+163.3 Item: 2 item_health_mega
+166.7 Kill: 2 0 11: 70^5.^4Major^7 killed ric by MOD_LIGHTNING 8 in arena 0
+166.7 Item: 2 weapon_plasmagun
+166.7 Item: 2 item_quad
+167.5 Kill: 2 5 11: 70^5.^4Major^7 killed 70^5.^4Keel^7 by MOD_LIGHTNING 6 in arena 0
+169.0 Item: 1 weapon_lightning
+169.9 Item: 5 weapon_plasmagun
+169.9 Kill: 2 1 11: 70^5.^4Major^7 killed 70^5.^4Hunter^7 by MOD_LIGHTNING 6 in arena 0
+170.0 Item: 6 item_health
+170.1 Item: 0 item_armor_body
+170.4 Item: 3 weapon_lightning
+170.6 Kill: 3 2 11: 70^5.^4Xaero^7 killed 70^5.^4Major^7 by MOD_LIGHTNING 6 in arena 0
+171.4 Item: 3 weapon_lightning
+172.2 Item: 3 item_health
+175.9 Kill: 3 2 11: 70^5.^4Xaero^7 killed 70^5.^4Major^7 by MOD_LIGHTNING 2 in arena 0
+177.4 Kill: 6 1 1: 70^5.^4Biker^7 killed 70^5.^4Hunter^7 by MOD_SHOTGUN 2 in arena 0
+177.9 Kill: 3 6 11: 70^5.^4Xaero^7 killed 70^5.^4Biker^7 by MOD_LIGHTNING 3 in arena 0
+178.5 Item: 3 weapon_plasmagun
+179.9 Item: 5 item_armor_combat
+182.9 Item: 6 weapon_grenadelauncher
+184.5 Item: 1 weapon_lightning
+187.3 Item: 4 item_armor_combat
+187.9 Item: 3 weapon_shotgun
+188.7 Item: 6 weapon_grenadelauncher
+189.2 Item: 4 item_health
+189.6 Item: 1 item_health_large
+189.6 Item: 0 item_armor_shard
+189.8 Item: 0 item_armor_shard
+190.0 Item: 0 item_armor_shard
+190.1 Item: 0 item_armor_shard
+190.3 Item: 0 item_armor_shard
+193.7 Item: 1 weapon_plasmagun
+193.7 Kill: 3 0 11: 70^5.^4Xaero^7 killed ric by MOD_LIGHTNING 1 in arena 0
+193.9 Item: 2 item_health_mega
+195.0 Item: 0 ammo_rockets
+195.8 Kill: 4 5 9: 70^5.^4Cadavre^7 killed 70^5.^4Keel^7 by MOD_PLASMA_SPLASH 8 in arena 0
+196.3 Item: 4 weapon_plasmagun
+196.8 Kill: 3 6 11: 70^5.^4Xaero^7 killed 70^5.^4Biker^7 by MOD_LIGHTNING 2 in arena 0
+197.2 Item: 1 item_health
+197.7 Item: 0 weapon_grenadelauncher
+200.2 Kill: 0 5 5: ric killed 70^5.^4Keel^7 by MOD_GRENADE_SPLASH 2 in arena 0
+201.5 Item: 2 weapon_lightning
+203.3 Item: 5 weapon_plasmagun
+203.4 Item: 1 weapon_shotgun
+204.6 Item: 1 item_health
+206.6 Kill: 5 3 8: 70^5.^4Keel^7 killed 70^5.^4Xaero^7 by MOD_PLASMA 8 in arena 0
+207.3 Item: 0 item_armor_combat
+207.4 Kill: 2 1 11: 70^5.^4Major^7 killed 70^5.^4Hunter^7 by MOD_LIGHTNING 6 in arena 0
+208.9 Kill: 4 6 8: 70^5.^4Cadavre^7 killed 70^5.^4Biker^7 by MOD_PLASMA 2 in arena 0
+209.9 Item: 2 weapon_lightning
+211.0 Kill: 3 2 3: 70^5.^4Xaero^7 killed 70^5.^4Major^7 by MOD_MACHINEGUN 6 in arena 0
+211.7 Item: 3 weapon_lightning
+211.8 Item: 3 weapon_plasmagun
+211.9 Item: 2 weapon_grenadelauncher
+212.0 Item: 1 weapon_plasmagun
+213.6 Item: 6 item_armor_body
+214.7 Item: 0 item_quad
+215.5 Item: 4 weapon_lightning
+216.1 Item: 3 item_health
+216.2 Item: 6 weapon_shotgun
+218.2 Kill: 3 4 11: 70^5.^4Xaero^7 killed 70^5.^4Cadavre^7 by MOD_LIGHTNING 6 in arena 0
+218.9 Item: 0 weapon_plasmagun
+219.1 Item: 1 item_armor_shard
+219.1 Item: 4 weapon_grenadelauncher
+219.3 Item: 1 item_armor_shard
+219.4 Item: 1 item_armor_shard
+219.6 Item: 1 item_armor_shard
+219.7 Item: 1 item_armor_shard
+221.3 Kill: 0 3 8: ric killed 70^5.^4Xaero^7 by MOD_PLASMA 6 in arena 0
+222.1 Item: 6 item_health
+223.4 Item: 1 item_health_large
+223.7 Item: 5 item_health_small
+224.2 Item: 5 item_health_small
+224.6 Item: 5 item_health_small
+225.6 Kill: 0 6 8: ric killed 70^5.^4Biker^7 by MOD_PLASMA 3 in arena 0
+226.6 Item: 0 weapon_plasmagun
+227.4 Item: 2 item_health_mega
+229.3 Item: 1 weapon_lightning
+230.9 Item: 4 item_armor_combat
+231.3 Kill: 0 4 8: ric killed 70^5.^4Cadavre^7 by MOD_PLASMA 2 in arena 0
+233.0 Item: 4 weapon_lightning
+233.1 Item: 0 weapon_railgun
+233.5 Item: 4 weapon_lightning
+234.0 Item: 2 item_armor_combat
+234.8 Item: 1 weapon_grenadelauncher
+236.0 Kill: 4 6 11: 70^5.^4Cadavre^7 killed 70^5.^4Biker^7 by MOD_LIGHTNING 2 in arena 0
+236.9 Item: 0 weapon_shotgun
+237.4 Item: 0 weapon_plasmagun
+238.0 Item: 0 item_health
+241.3 Item: 6 weapon_lightning
+241.3 Kill: 1 1 5: 70^5.^4Hunter^7 killed 70^5.^4Hunter^7 by MOD_GRENADE_SPLASH 4 in arena 0
+242.4 Kill: 0 4 10: ric killed 70^5.^4Cadavre^7 by MOD_RAILGUN 6 in arena 0
+245.4 Item: 6 weapon_plasmagun
+246.3 Item: 4 weapon_grenadelauncher
+246.6 Item: 1 item_armor_shard
+246.8 Item: 1 item_armor_shard
+246.9 Item: 1 item_armor_shard
+247.1 Item: 1 item_armor_shard
+250.0 Kill: 0 2 10: ric killed 70^5.^4Major^7 by MOD_RAILGUN 4 in arena 0
+251.4 Item: 1 item_health
+251.6 Kill: 0 3 10: ric killed 70^5.^4Xaero^7 by MOD_RAILGUN 1 in arena 0
+252.4 Item: 4 weapon_lightning
+252.7 Item: 6 item_health
+255.2 Item: 2 weapon_plasmagun
+255.3 Item: 5 weapon_grenadelauncher
+255.5 Item: 6 item_health
+256.1 Kill: 0 3 10: ric killed 70^5.^4Xaero^7 by MOD_RAILGUN 2 in arena 0
+258.0 Item: 1 item_health_mega
+259.8 Kill: 3 5 3: 70^5.^4Xaero^7 killed 70^5.^4Keel^7 by MOD_MACHINEGUN 2 in arena 0
+260.3 Item: 6 item_armor_combat
+260.5 Kill: 3 1 3: 70^5.^4Xaero^7 killed 70^5.^4Hunter^7 by MOD_MACHINEGUN 1 in arena 0
+261.1 Item: 0 item_armor_shard
+261.1 Item: 0 weapon_lightning
+262.9 Item: 1 item_armor_body
+265.3 Kill: 4 3 11: 70^5.^4Cadavre^7 killed 70^5.^4Xaero^7 by MOD_LIGHTNING 2 in arena 0
+265.3 Kill: 0 6 11: ric killed 70^5.^4Biker^7 by MOD_LIGHTNING 8 in arena 0
+267.2 Item: 3 weapon_plasmagun
+269.0 Kill: 4 5 11: 70^5.^4Cadavre^7 killed 70^5.^4Keel^7 by MOD_LIGHTNING 2 in arena 0
+270.8 Item: 0 ammo_cells
+270.9 Item: 6 weapon_lightning
+271.8 Item: 2 item_armor_combat
+272.2 Item: 4 item_health_large
+272.9 Item: 0 weapon_plasmagun
+274.0 Kill: 6 1 11: 70^5.^4Biker^7 killed 70^5.^4Hunter^7 by MOD_LIGHTNING 2 in arena 0
+274.0 Item: 0 item_health
+275.5 Kill: 3 0 8: 70^5.^4Xaero^7 killed ric by MOD_PLASMA 3 in arena 0
+276.8 Item: 3 weapon_shotgun
+279.3 Item: 4 weapon_grenadelauncher
+279.5 Item: 6 weapon_plasmagun
+279.5 Item: 0 item_armor_shard
+279.6 Item: 0 item_armor_shard
+279.7 Item: 1 weapon_lightning
+279.7 Item: 0 item_armor_shard
+279.9 Item: 0 item_armor_shard
+281.1 Kill: 1 5 11: 70^5.^4Hunter^7 killed 70^5.^4Keel^7 by MOD_LIGHTNING 2 in arena 0
+283.3 Item: 3 weapon_shotgun
+284.3 Kill: 4 3 3: 70^5.^4Cadavre^7 killed 70^5.^4Xaero^7 by MOD_MACHINEGUN 8 in arena 0
+284.7 Item: 0 ammo_rockets
+285.5 Item: 4 item_health
+286.3 Item: 5 weapon_plasmagun
+286.8 Item: 3 weapon_shotgun
+286.9 Item: 0 weapon_grenadelauncher
+287.0 Item: 4 weapon_plasmagun
+288.5 Kill: 0 2 4: ric killed 70^5.^4Major^7 by MOD_GRENADE 8 in arena 0
+289.8 Item: 0 weapon_plasmagun
+291.2 Item: 5 weapon_plasmagun
+291.3 Item: 5 item_health
+291.5 Item: 4 item_health
+292.1 Item: 0 weapon_lightning
+292.4 Kill: 1 6 11: 70^5.^4Hunter^7 killed 70^5.^4Biker^7 by MOD_LIGHTNING 8 in arena 0
+293.6 Item: 1 item_armor_combat
+293.9 Item: 6 weapon_plasmagun
+294.5 Item: 3 item_health_mega
+294.8 Item: 2 item_armor_body
+297.3 Item: 5 item_health
+300.6 Item: 0 item_armor_combat
+301.3 Item: 1 weapon_plasmagun
+302.1 Item: 0 weapon_railgun
+302.2 Item: 4 weapon_lightning
+302.4 Kill: 5 5 9: 70^5.^4Keel^7 killed 70^5.^4Keel^7 by MOD_PLASMA_SPLASH 8 in arena 0
+304.4 Item: 6 weapon_grenadelauncher
+305.6 Kill: 0 5 11: ric killed 70^5.^4Keel^7 by MOD_LIGHTNING 2 in arena 0
+305.8 Item: 3 item_quad
+306.8 Item: 2 item_armor_shard
+306.9 Item: 2 item_armor_shard
+307.0 Item: 2 item_armor_shard
+307.2 Item: 2 item_armor_shard
+307.3 Item: 2 item_armor_shard
+308.0 Kill: 6 0 8: 70^5.^4Biker^7 killed ric by MOD_PLASMA 7 in arena 0
+308.4 Item: 1 item_health
+309.0 Item: 4 item_health_large
+309.4 Item: 1 weapon_plasmagun
+309.6 Item: 0 weapon_shotgun
+310.7 Kill: 3 5 3: 70^5.^4Xaero^7 killed 70^5.^4Keel^7 by MOD_MACHINEGUN 2 in arena 0
+310.9 Item: 4 weapon_lightning
+311.5 Item: 2 weapon_railgun
+311.6 Item: 2 weapon_grenadelauncher
+312.4 Kill: 0 6 1: ric killed 70^5.^4Biker^7 by MOD_SHOTGUN 8 in arena 0
+312.4 Item: 0 weapon_plasmagun
+314.1 Item: 0 weapon_railgun
+314.3 Kill: 3 6 3: 70^5.^4Xaero^7 killed 70^5.^4Biker^7 by MOD_MACHINEGUN 2 in arena 0
+315.1 Kill: 3 2 3: 70^5.^4Xaero^7 killed 70^5.^4Major^7 by MOD_MACHINEGUN 7 in arena 0
+318.8 Item: 1 weapon_railgun
+318.8 Item: 4 weapon_plasmagun
+319.1 Item: 3 item_armor_combat
+319.4 Kill: 4 5 11: 70^5.^4Cadavre^7 killed 70^5.^4Keel^7 by MOD_LIGHTNING 2 in arena 0
+320.1 Kill: 3 1 3: 70^5.^4Xaero^7 killed 70^5.^4Hunter^7 by MOD_MACHINEGUN 8 in arena 0
+320.5 Item: 6 item_armor_body
+320.9 Item: 2 item_health
+321.4 Item: 5 weapon_lightning
+324.1 Item: 1 weapon_shotgun
+324.6 Item: 4 item_health
+325.7 Kill: 4 0 11: 70^5.^4Cadavre^7 killed ric by MOD_LIGHTNING 7 in arena 0
+326.2 Item: 2 weapon_grenadelauncher
+326.6 Item: 5 weapon_plasmagun
+328.4 Item: 4 item_health_mega
+330.0 Item: 2 weapon_lightning
+332.2 Item: 1 item_health
+332.3 Item: 6 ammo_rockets
+332.5 Kill: 4 5 11: 70^5.^4Cadavre^7 killed 70^5.^4Keel^7 by MOD_LIGHTNING 6 in arena 0
+333.2 Item: 0 weapon_shotgun
+333.8 Item: 3 weapon_plasmagun
+334.2 Item: 1 weapon_plasmagun
+335.3 Item: 2 item_health
+335.6 Kill: 0 4 1: ric killed 70^5.^4Cadavre^7 by MOD_SHOTGUN 4 in arena 0
+336.7 Item: 0 weapon_grenadelauncher
+337.1 Item: 0 weapon_lightning
+337.4 Item: 5 weapon_railgun
+337.8 Item: 3 weapon_grenadelauncher
+339.9 Item: 0 weapon_railgun
+342.7 Kill: 5 2 10: 70^5.^4Keel^7 killed 70^5.^4Major^7 by MOD_RAILGUN 6 in arena 0
+344.0 Item: 1 weapon_lightning
+344.6 Item: 4 weapon_plasmagun
+344.9 Item: 0 item_armor_combat
+345.7 Item: 4 item_health
+346.5 Item: 5 item_armor_combat
+348.8 Item: 4 item_armor_body
+349.5 Item: 2 item_health_small
+350.1 Item: 6 weapon_grenadelauncher
+351.1 Kill: 3 3 9: 70^5.^4Xaero^7 killed 70^5.^4Xaero^7 by MOD_PLASMA_SPLASH 8 in arena 0
+351.6 Kill: 0 6 11: ric killed 70^5.^4Biker^7 by MOD_LIGHTNING 4 in arena 0
+353.3 Item: 0 weapon_grenadelauncher
+353.4 Item: 1 item_health_large
+353.5 Kill: 5 1 10: 70^5.^4Keel^7 killed 70^5.^4Hunter^7 by MOD_RAILGUN 6 in arena 0
+354.3 Item: 5 weapon_lightning
+355.1 Item: 1 weapon_shotgun
+355.8 Item: 3 weapon_plasmagun
+356.9 Item: 2 item_health
+357.2 Kill: 0 5 10: ric killed 70^5.^4Keel^7 by MOD_RAILGUN 6 in arena 0
+357.4 Item: 2 weapon_lightning
+357.4 Kill: 1 3 1: 70^5.^4Hunter^7 killed 70^5.^4Xaero^7 by MOD_SHOTGUN 8 in arena 0
+358.4 Item: 1 weapon_plasmagun
+358.8 Item: 0 weapon_lightning
+360.6 Item: 2 item_health_mega
+361.8 Item: 5 weapon_shotgun
+365.2 Item: 2 weapon_plasmagun
+365.9 Kill: 4 6 8: 70^5.^4Cadavre^7 killed 70^5.^4Biker^7 by MOD_PLASMA 2 in arena 0
+366.0 Item: 1 item_health
+366.6 Kill: 4 3 3: 70^5.^4Cadavre^7 killed 70^5.^4Xaero^7 by MOD_MACHINEGUN 2 in arena 0
+367.1 Item: 4 weapon_grenadelauncher
+367.5 Item: 5 weapon_plasmagun
+370.0 Item: 2 item_armor_shard
+370.9 Kill: 1 0 1: 70^5.^4Hunter^7 killed ric by MOD_SHOTGUN 6 in arena 0
+371.2 Item: 6 weapon_shotgun
+371.5 Item: 4 weapon_lightning
+373.7 Item: 0 item_health
+373.8 Kill: 1 5 8: 70^5.^4Hunter^7 killed 70^5.^4Keel^7 by MOD_PLASMA 8 in arena 0
+374.6 Item: 6 weapon_plasmagun
+375.0 Item: 0 item_armor_body
+375.2 Item: 1 weapon_grenadelauncher
+375.4 Item: 2 weapon_plasmagun
+376.7 Item: 2 item_armor_combat
+378.0 Item: 3 weapon_lightning
+379.5 Kill: 5 1 3: 70^5.^4Keel^7 killed 70^5.^4Hunter^7 by MOD_MACHINEGUN 8 in arena 0
+379.6 Item: 0 weapon_plasmagun
+380.9 Item: 6 item_health
+382.1 Item: 0 item_armor_shard
+382.2 Item: 0 item_armor_shard
+382.3 Item: 0 item_armor_shard
+382.8 Kill: 0 4 8: ric killed 70^5.^4Cadavre^7 by MOD_PLASMA 6 in arena 0
+383.8 Item: 0 weapon_lightning
+386.1 Kill: 0 6 11: ric killed 70^5.^4Biker^7 by MOD_LIGHTNING 8 in arena 0
+386.8 Item: 0 weapon_plasmagun
+387.4 Item: 1 weapon_lightning
+389.0 Kill: 3 2 11: 70^5.^4Xaero^7 killed 70^5.^4Major^7 by MOD_LIGHTNING 8 in arena 0
+389.3 Kill: 3 0 11: 70^5.^4Xaero^7 killed ric by MOD_LIGHTNING 6 in arena 0
+389.8 Item: 6 weapon_shotgun
+389.8 Item: 4 weapon_plasmagun
+390.6 Item: 3 weapon_grenadelauncher
+390.8 Item: 5 item_health_mega
+393.2 Item: 1 weapon_lightning
+394.8 Item: 6 item_armor_combat
+394.9 Kill: 1 3 11: 70^5.^4Hunter^7 killed 70^5.^4Xaero^7 by MOD_LIGHTNING 6 in arena 0
+395.3 Item: 1 item_health_large
+396.9 Item: 4 weapon_lightning
+397.2 Item: 6 item_health
+397.2 Item: 2 weapon_plasmagun
+397.4 Item: 5 item_quad
+398.1 Item: 1 item_armor_shard
+398.2 Item: 0 weapon_lightning
+398.2 Item: 1 item_armor_shard
+398.3 Item: 3 weapon_grenadelauncher
+398.6 Item: 2 item_health
+399.9 Item: 4 item_health_small
+400.4 Item: 4 item_health_small
+401.7 Item: 6 ammo_rockets
+401.8 Item: 3 weapon_lightning
+404.0 Kill: 0 4 18: ric killed 70^5.^4Cadavre^7 by MOD_TELEFRAG 6 in arena 0
+404.0 Item: 0 weapon_lightning
+405.3 Item: 2 weapon_shotgun
+406.1 Item: 4 weapon_lightning
+406.3 Item: 1 item_armor_combat
+406.5 Item: 2 item_health
+406.9 Kill: 1 0 11: 70^5.^4Hunter^7 killed ric by MOD_LIGHTNING 6 in arena 0
+407.6 Item: 1 weapon_plasmagun
+408.6 Item: 1 weapon_lightning
+408.8 Item: 0 item_armor_body
+410.1 Item: 4 weapon_plasmagun
+411.4 Kill: 1 2 11: 70^5.^4Hunter^7 killed 70^5.^4Major^7 by MOD_LIGHTNING 8 in arena 0
+413.4 Item: 4 weapon_shotgun
+413.6 Item: 2 weapon_lightning
+414.7 Item: 1 weapon_plasmagun
+415.4 Kill: 4 5 11: 70^5.^4Cadavre^7 killed 70^5.^4Keel^7 by MOD_LIGHTNING 1 in arena 0
+415.8 Item: 0 item_quad
+417.0 Item: 0 weapon_plasmagun
+417.7 Item: 1 weapon_grenadelauncher
+418.1 Item: 5 item_health
+418.6 Item: 2 item_armor_shard
+418.9 Item: 2 item_armor_shard
+419.1 Item: 2 item_armor_shard
+419.9 Item: 3 item_armor_combat
+420.3 Kill: 3 4 4: 70^5.^4Xaero^7 killed 70^5.^4Cadavre^7 by MOD_GRENADE 6 in arena 0
+421.5 Kill: 3 0 11: 70^5.^4Xaero^7 killed ric by MOD_LIGHTNING 8 in arena 0
+421.8 Item: 3 weapon_plasmagun
+421.9 Item: 3 item_quad
+423.1 Item: 5 item_armor_shard
+424.3 Item: 5 item_armor_shard
+424.5 Kill: 3 4 11: 70^5.^4Xaero^7 killed 70^5.^4Cadavre^7 by MOD_LIGHTNING 2 in arena 0
+425.3 Kill: 2 5 11: 70^5.^4Major^7 killed 70^5.^4Keel^7 by MOD_LIGHTNING 1 in arena 0
+426.7 Kill: 6 0 3: 70^5.^4Biker^7 killed ric by MOD_MACHINEGUN 2 in arena 0
+427.2 Item: 6 item_health
+428.3 Item: 0 weapon_shotgun
+429.2 Item: 1 item_health_large
+429.3 Item: 4 item_health_mega
+429.3 Kill: 1022 2 19: <world> killed 70^5.^4Major^7 by MOD_FALLING 6 in arena 0
+429.8 Kill: 0 3 1: ric killed 70^5.^4Xaero^7 by MOD_SHOTGUN 6 in arena 0
+429.9 Exit: Fraglimit hit in arena 0
+429.9 score: 30  ping: 0  client: 0 ric
+429.9 score: 24  ping: 0  client: 3 70^5.^4Xaero^7
+429.9 score: 16  ping: 0  client: 4 70^5.^4Cadavre^7
+429.9 score: 11  ping: 0  client: 6 70^5.^4Biker^7
+429.9 score: 10  ping: 0  client: 2 70^5.^4Major^7
+429.9 score: 9  ping: 0  client: 1 70^5.^4Hunter^7
+429.9 score: 7  ping: 0  client: 5 70^5.^4Keel^7
+429.9 say: 70^5.^4Xaero^7: gg
+429.9 say: 70^5.^4Biker^7: gg
+429.9 say: 70^5.^4Hunter^7: gg
+429.9 say: 70^5.^4Cadavre^7: wp
+429.9 say: 70^5.^4Keel^7: gg
+430.4 say: 70^5.^4Major^7: gg
+431.1 ShutdownGame:
+431.1 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\cpm22\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.4 ClientConnect: 0
+0.4 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientBegin: 0
+0.7 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.7 ClientBegin: 0
+8.7 Item: 0 weapon_rocketlauncher
+10.5 Item: 0 weapon_railgun
+11.0 Item: 0 item_health
+13.4 Item: 0 weapon_rocketlauncher
+32.6 Item: 0 weapon_lightning
+117.9 Item: 0 item_health_mega
+119.1 Item: 0 weapon_rocketlauncher
+123.3 Item: 0 weapon_rocketlauncher
+128.0 Item: 0 weapon_rocketlauncher
+129.9 Item: 0 ammo_shells
+130.0 Item: 0 ammo_bullets
+133.0 Item: 0 item_armor_combat
+138.1 Item: 0 weapon_grenadelauncher
+138.2 Item: 0 item_health_small
+138.3 Item: 0 item_health_small
+138.4 Item: 0 item_health_small
+138.5 Item: 0 item_health_small
+140.6 Item: 0 weapon_railgun
+142.7 Item: 0 weapon_rocketlauncher
+347.9 Item: 0 weapon_rocketlauncher
+415.5 Item: 0 weapon_rocketlauncher
+417.3 Item: 0 item_armor_combat
+420.4 Item: 0 item_health
+450.3 Item: 0 item_health
+451.1 Item: 0 weapon_railgun
+453.6 Item: 0 weapon_rocketlauncher
+487.4 Item: 0 weapon_lightning
+1673.0 Item: 0 weapon_rocketlauncher
+1818.0 Item: 0 weapon_lightning
+1820.3 Item: 0 weapon_rocketlauncher
+2068.2 Item: 0 weapon_lightning
+2085.4 Item: 0 weapon_rocketlauncher
+2174.6 Item: 0 weapon_rocketlauncher
+2271.1 Item: 0 weapon_rocketlauncher
+2276.9 Item: 0 weapon_railgun
+2279.5 Item: 0 weapon_rocketlauncher
+2292.4 Item: 0 item_armor_body
+2295.8 Item: 0 item_health
+2297.7 Item: 0 item_health
+2304.6 Item: 0 weapon_grenadelauncher
+2304.7 Item: 0 item_health_small
+2304.8 Item: 0 item_health_small
+2304.9 Item: 0 item_health_small
+2305.0 Item: 0 item_health_small
+2307.7 Item: 0 weapon_rocketlauncher
+2335.8 Item: 0 weapon_rocketlauncher
+2338.1 Item: 0 item_health
+2340.3 Item: 0 weapon_rocketlauncher
+2341.1 Item: 0 weapon_railgun
+2352.1 Item: 0 weapon_rocketlauncher
+2410.6 Item: 0 weapon_rocketlauncher
+2411.9 Item: 0 item_health_mega
+2412.5 Item: 0 item_armor_combat
+2415.5 Item: 0 weapon_grenadelauncher
+2415.6 Item: 0 item_health_small
+2415.7 Item: 0 item_health_small
+2415.8 Item: 0 item_health_small
+2415.9 Item: 0 item_health_small
+2418.7 Item: 0 weapon_rocketlauncher
+2423.7 Item: 0 item_armor_body
+2452.5 Item: 0 weapon_rocketlauncher
+2454.3 Item: 0 weapon_railgun
+2455.9 Item: 0 ammo_rockets
+2457.6 Item: 0 weapon_rocketlauncher
+2465.3 Item: 0 item_armor_body
+2468.8 Item: 0 weapon_rocketlauncher
+2476.0 Item: 0 weapon_grenadelauncher
+2476.2 Item: 0 item_health_small
+2476.3 Item: 0 item_health_small
+2476.4 Item: 0 item_health_small
+2476.5 Item: 0 item_health_small
+2510.3 Item: 0 weapon_lightning
+2545.4 Item: 0 weapon_lightning
+2599.2 Item: 0 weapon_lightning
+2601.8 Item: 0 weapon_rocketlauncher
+2608.1 Item: 0 weapon_lightning
+2643.8 Item: 0 weapon_lightning
+2646.3 Item: 0 weapon_rocketlauncher
+2672.3 Item: 0 weapon_rocketlauncher
+2707.4 ShutdownGame:
+2707.4 ------------------------------------------------------------
+0.0 ------------------------------------------------------------
+0.0 InitGame: \server_gameplay\CPM\g_maxGameClients\0\sv_fps\30\sv_maxclients\8\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\^nListen Server\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\68\mapname\pornstar-slopin\sv_privateClients\0\sv_allowDownload\1\game\CPMA\gamename\cpma\gamedate\Jul 27 2010\gameversion\1.48\sv_arenas\1\GTV_CN\1\g_needpass\0
+0.0 Game_Start: ??? in arena 0
+0.0 Game_Start: 1v1 in arena 0
+0.4 ClientConnect: 0
+0.4 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.6 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientBegin: 0
+0.8 ClientUserinfoChanged: 0 n\ric\t\0\model\doom/pm\c1\bdccd\hc\100\w\0\l\0\a\0\f\0\nick\\c\0
+0.8 ClientBegin: 0
+44.6 say: ric: \
+61.5 ShutdownGame:
+61.5 ------------------------------------------------------------

@@ -1,0 +1,14 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \version\Q3 1.32e linux-x86_64 Nov 10 2017\timelimit\0\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\8\sv_maxRate\0\sv_maxPing\0\sv_hostname\noname\sv_floodProtect\1\sv_dlRate\100\sv_allowDownload\1\protocol\68\mapname\q3dm1\g_gametype\3\fraglimit\20\dmflags\0\gamename\baseq3\g_maxGameClients\0\capturelimit\8\g_needpass\0\g_unlagged\1
+  0:00 Warmup:
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/default\hmodel\doom/default\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/default\hmodel\doom/default\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\ric\t\3\model\doom/default\hmodel\doom/default\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 ClientUserinfoChanged: 0 n\ric\t\1\model\doom/default\hmodel\doom/default\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1
+  0:02 ClientUserinfoChanged: 0 n\ric\t\1\model\doom/default\hmodel\doom/default\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1
+  0:02 ClientBegin: 0
+  0:13 Item: 0 weapon_rocketlauncher
+  0:29 ShutdownGame:
+  0:29 ------------------------------------------------------------

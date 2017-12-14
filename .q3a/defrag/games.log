@@ -1,0 +1,953 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_fps\125\sv_maxclients\8\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\noname\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\0\timelimit\0\g_gametype\0\protocol\68\mapname\spacerun\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\capturelimit\8\g_maxGameClients\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 ammo_rockets
+  0:06 Item: 0 ammo_rockets
+  0:06 Item: 0 ammo_rockets
+  0:06 Item: 0 item_health_mega
+  0:08 Item: 0 weapon_rocketlauncher
+  0:08 Item: 0 item_armor_body
+  0:14 Item: 0 ammo_rockets
+  0:14 Item: 0 ammo_rockets
+  0:14 Item: 0 ammo_rockets
+  0:15 Item: 0 item_health_mega
+  0:16 Item: 0 item_health_mega
+  0:16 Item: 0 ammo_rockets
+  0:17 Item: 0 ammo_rockets
+  0:17 Item: 0 item_health_mega
+  0:22 Item: 0 ammo_rockets
+  0:23 Item: 0 ammo_rockets
+  0:23 Item: 0 item_health_mega
+  0:23 Item: 0 ammo_rockets
+  0:23 Item: 0 ammo_rockets
+  0:26 Item: 0 item_armor_body
+  0:26 Item: 0 weapon_rocketlauncher
+  0:27 Item: 0 ammo_rockets
+  0:27 Item: 0 ammo_rockets
+  0:31 ShutdownGame:
+  0:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_fps\125\sv_maxclients\8\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\noname\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\0\timelimit\0\g_gametype\0\protocol\68\mapname\runego\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\capturelimit\8\g_maxGameClients\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 ammo_bfg
+  0:03 Item: 0 ammo_bfg
+  0:03 Item: 0 ammo_bfg
+  0:03 Item: 0 item_enviro
+  0:05 Item: 0 ammo_bfg
+  0:06 Item: 0 ammo_bfg
+  0:06 Item: 0 ammo_bfg
+  0:07 Item: 0 weapon_bfg
+  0:08 Item: 0 item_quad
+  0:10 Item: 0 ammo_bfg
+  0:10 Item: 0 ammo_bfg
+  0:11 Item: 0 ammo_bfg
+  0:11 Item: 0 ammo_bfg
+  0:51 ShutdownGame:
+  0:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_fps\125\sv_maxclients\8\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\sv_hostname\noname\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\fraglimit\0\timelimit\0\g_gametype\0\protocol\68\mapname\coldrun\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\capturelimit\8\g_maxGameClients\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:49 ShutdownGame:
+  0:49 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\8\g_maxGameClients\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_maxclients\8\sv_hostname\noname\timelimit\0\fraglimit\0\version\dfengine 1.08 linux-i386 Jan 21 2010\dmflags\0\g_gametype\0\protocol\68\mapname\runforest1\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  1:04 Item: 0 ammo_rockets
+  1:05 Item: 0 ammo_rockets
+  1:05 Item: 0 ammo_rockets
+  1:05 Item: 0 ammo_rockets
+  1:06 Item: 0 item_armor_body
+  1:07 Item: 0 weapon_rocketlauncher
+  1:07 Item: 0 item_health_mega
+  1:07 Item: 0 ammo_rockets
+  1:08 Item: 0 ammo_rockets
+  1:08 Item: 0 ammo_rockets
+  1:08 Item: 0 ammo_rockets
+  1:10 Item: 0 ammo_rockets
+  1:10 Item: 0 item_health_mega
+  1:23 Item: 0 item_haste
+  1:37 Item: 0 ammo_rockets
+  1:37 Item: 0 ammo_rockets
+  1:37 Item: 0 weapon_rocketlauncher
+  1:38 Item: 0 item_health_mega
+  1:39 Item: 0 item_armor_body
+  1:39 Item: 0 ammo_rockets
+  1:40 Item: 0 ammo_rockets
+  1:40 Item: 0 ammo_rockets
+  1:53 ShutdownGame:
+  1:53 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-goethe\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:18 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:35 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:40 Item: 0 item_enviro
+  0:51 ShutdownGame:
+  0:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-goethe\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 item_enviro
+  0:03 Item: 0 item_haste
+  0:44 Item: 0 item_enviro
+  0:44 Item: 0 item_haste
+  1:26 ShutdownGame:
+  1:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-slopin\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 item_haste
+  0:02 Item: 0 item_enviro
+  0:20 Item: 0 item_haste
+  0:24 Item: 0 item_enviro
+  0:24 Item: 0 item_haste
+  1:11 Item: 0 item_haste
+  1:11 Item: 0 item_enviro
+  1:28 Item: 0 item_haste
+  1:28 Item: 0 item_enviro
+  1:48 Item: 0 item_haste
+  1:49 Item: 0 item_enviro
+  2:15 Item: 0 item_haste
+  2:16 Item: 0 item_haste
+  2:31 Item: 0 item_enviro
+  2:31 Item: 0 item_haste
+  5:05 say: UnnamedPlayer: df_hud_cgaz 1
+  5:23 Item: 0 item_enviro
+  5:36 Item: 0 item_enviro
+  5:36 Item: 0 item_haste
+  5:54 Item: 0 item_haste
+  5:54 Item: 0 item_enviro
+  6:09 Item: 0 item_haste
+  6:09 Item: 0 item_enviro
+  6:49 Item: 0 item_haste
+  6:49 Item: 0 item_enviro
+  7:13 Item: 0 item_enviro
+  7:13 Item: 0 item_haste
+  7:13 Item: 0 item_enviro
+  7:13 Item: 0 item_haste
+  7:13 Item: 0 item_enviro
+  7:16 Item: 0 item_haste
+  7:16 Item: 0 item_enviro
+  7:26 ShutdownGame:
+  7:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\sl1k-42\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:38 ShutdownGame:
+  0:38 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\sL1k-utopia\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:25 ShutdownGame:
+  0:25 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\Ujump\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:18 ShutdownGame:
+  0:18 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\running_upstairs\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:26 ShutdownGame:
+  0:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\Fps-runs_DrAkon\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:14 ShutdownGame:
+  0:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\RunFredd\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 weapon_plasmagun
+  0:01 Item: 0 item_armor_combat
+  0:02 Item: 0 item_armor_combat
+  0:03 Item: 0 item_haste
+  0:22 Item: 0 item_armor_combat
+  0:22 Item: 0 weapon_plasmagun
+  0:22 Item: 0 item_armor_combat
+  0:23 Item: 0 item_haste
+  0:32 ShutdownGame:
+  0:32 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-goethe\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 item_enviro
+  0:01 Item: 0 item_haste
+  0:45 ShutdownGame:
+  0:45 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\tenuous\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:09 ShutdownGame:
+  0:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\station7\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:15 ShutdownGame:
+  0:15 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\tenuous\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:34 ShutdownGame:
+  0:34 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-slopin\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 item_haste
+  0:01 Item: 0 item_enviro
+  0:29 Item: 0 item_enviro
+  0:29 Item: 0 item_haste
+  1:01 Item: 0 item_enviro
+  1:01 Item: 0 item_haste
+  1:21 Item: 0 item_haste
+  1:21 Item: 0 item_enviro
+  1:38 Item: 0 item_enviro
+  1:38 Item: 0 item_haste
+  2:06 Item: 0 item_enviro
+  2:06 Item: 0 item_haste
+  2:29 Item: 0 item_enviro
+  2:29 Item: 0 item_haste
+  2:35 ShutdownGame:
+  2:35 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\bull-stref-sl1k\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  1:42 ShutdownGame:
+  1:42 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\runpilo1f\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 item_armor_body
+  0:01 Item: 0 weapon_rocketlauncher
+  0:02 Item: 0 item_health_mega
+  0:03 Item: 0 item_armor_body
+  0:03 Item: 0 weapon_rocketlauncher
+  0:05 Item: 0 item_health_mega
+  0:07 Item: 0 item_health_mega
+  0:09 Item: 0 item_armor_body
+  0:09 Item: 0 weapon_rocketlauncher
+  0:11 Item: 0 item_armor_body
+  0:12 Item: 0 weapon_rocketlauncher
+  0:13 Item: 0 item_armor_body
+  0:14 Item: 0 weapon_rocketlauncher
+  0:15 Item: 0 item_health_mega
+  0:16 Item: 0 item_armor_body
+  0:16 Item: 0 weapon_rocketlauncher
+  0:18 Item: 0 item_health_mega
+  0:20 Item: 0 item_health_mega
+  0:22 Item: 0 item_armor_body
+  0:22 Item: 0 weapon_rocketlauncher
+  0:22 Item: 0 item_health_mega
+  0:24 Item: 0 item_health_mega
+  0:25 Item: 0 item_armor_body
+  0:25 Item: 0 weapon_rocketlauncher
+  0:27 Item: 0 item_health_mega
+  0:30 Item: 0 item_armor_body
+  0:30 Item: 0 weapon_rocketlauncher
+  0:31 Item: 0 item_health_mega
+  0:32 Item: 0 item_armor_body
+  0:33 Item: 0 weapon_rocketlauncher
+  0:33 Item: 0 item_health_mega
+  0:37 Item: 0 item_armor_body
+  0:38 Item: 0 weapon_rocketlauncher
+  0:39 Item: 0 item_health_mega
+  0:44 Item: 0 item_armor_body
+  0:44 Item: 0 weapon_rocketlauncher
+  0:45 Item: 0 item_health_mega
+  0:48 Item: 0 item_armor_body
+  0:48 Item: 0 weapon_rocketlauncher
+  0:49 Item: 0 item_health_mega
+  0:52 Item: 0 item_armor_body
+  0:52 Item: 0 weapon_rocketlauncher
+  0:53 Item: 0 item_health_mega
+  0:55 Item: 0 item_armor_body
+  0:55 Item: 0 weapon_rocketlauncher
+  0:56 Item: 0 item_health_mega
+  0:57 Item: 0 item_armor_body
+  0:57 Item: 0 weapon_rocketlauncher
+  0:58 Item: 0 item_health_mega
+  1:05 Item: 0 item_armor_body
+  1:07 ShutdownGame:
+  1:07 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\RunFRAG\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 item_health_mega
+  0:02 Item: 0 item_armor_body
+  0:02 Item: 0 item_health_mega
+  0:03 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 item_armor_body
+  0:04 Item: 0 item_haste
+  0:04 Item: 0 item_armor_body
+  0:05 Item: 0 item_health_mega
+  0:06 Item: 0 item_armor_body
+  0:09 Item: 0 item_health_mega
+  0:09 Item: 0 item_armor_body
+  0:10 Item: 0 item_health_mega
+  0:10 Item: 0 weapon_rocketlauncher
+  0:11 Item: 0 item_armor_body
+  0:12 Item: 0 item_haste
+  0:12 Item: 0 item_armor_body
+  0:12 Item: 0 item_health_mega
+  0:17 Item: 0 item_health_mega
+  0:17 Item: 0 item_armor_body
+  0:18 Item: 0 item_haste
+  0:18 Item: 0 item_armor_body
+  0:18 Item: 0 weapon_rocketlauncher
+  0:19 Item: 0 item_armor_body
+  0:24 Item: 0 item_health_mega
+  0:24 Item: 0 item_armor_body
+  0:25 Item: 0 item_health_mega
+  0:25 Item: 0 item_armor_body
+  0:43 Item: 0 item_health_mega
+  0:43 Item: 0 item_armor_body
+  0:57 Item: 0 item_health_mega
+  1:00 Item: 0 item_health_mega
+  1:03 Item: 0 item_health_mega
+  1:06 Item: 0 item_health_mega
+  1:12 Item: 0 item_health_mega
+  1:23 ShutdownGame:
+  1:23 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\St1\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  2:10 ShutdownGame:
+  2:10 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\wub-liquor\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:15 ShutdownGame:
+  0:15 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-kaine\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  8:23 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  8:32 ShutdownGame:
+  8:32 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-kaine\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  8:57 ShutdownGame:
+  8:57 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\szaq2\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  2:10 ShutdownGame:
+  2:10 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\electron\sv_privateClients\0\sv_minRate\0\sv_dlRate\100\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:32 ShutdownGame:
+  0:32 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_dlRate\100\sv_minRate\0\capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_maxclients\8\sv_hostname\noname\timelimit\0\fraglimit\0\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\boris_torture1\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  1:36 ShutdownGame:
+  1:36 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_dlRate\100\sv_minRate\0\capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_maxclients\8\sv_hostname\noname\timelimit\0\fraglimit\0\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\dustballs\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  1:19 ShutdownGame:
+  1:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_dlRate\100\sv_minRate\0\capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_maxclients\8\sv_hostname\noname\timelimit\0\fraglimit\0\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-slopin\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:23 Item: 0 item_enviro
+  0:23 Item: 0 item_haste
+  0:44 Item: 0 item_haste
+  0:44 Item: 0 item_enviro
+  1:00 Item: 0 item_haste
+  1:00 Item: 0 item_enviro
+  1:20 Item: 0 item_haste
+  1:42 Item: 0 item_enviro
+  1:42 Item: 0 item_haste
+  2:16 Item: 0 item_enviro
+  2:16 Item: 0 item_haste
+  2:39 Item: 0 item_haste
+  2:39 Item: 0 item_enviro
+  2:43 Item: 0 item_enviro
+  2:43 Item: 0 item_haste
+  3:05 Item: 0 item_enviro
+  3:05 Item: 0 item_haste
+  3:28 Item: 0 item_haste
+  3:28 Item: 0 item_haste
+  3:50 Item: 0 item_enviro
+  3:50 Item: 0 item_haste
+  5:07 Item: 0 item_enviro
+  5:07 Item: 0 item_haste
+  5:24 Item: 0 item_enviro
+  5:24 Item: 0 item_haste
+  6:44 Item: 0 item_enviro
+  6:44 Item: 0 item_haste
+  7:10 Item: 0 item_haste
+  7:10 Item: 0 item_enviro
+  7:27 Item: 0 item_enviro
+  7:27 Item: 0 item_haste
+  7:51 Item: 0 item_enviro
+  7:51 Item: 0 item_haste
+  8:18 Item: 0 item_enviro
+  8:19 Item: 0 item_haste
+  9:10 Item: 0 item_enviro
+  9:10 Item: 0 item_haste
+  9:31 Item: 0 item_enviro
+  9:32 Item: 0 item_haste
+  9:46 Item: 0 item_enviro
+  9:46 Item: 0 item_haste
+ 10:03 Item: 0 item_enviro
+ 10:03 Item: 0 item_haste
+ 10:26 Item: 0 item_enviro
+ 10:26 Item: 0 item_haste
+ 10:42 Item: 0 item_enviro
+ 10:42 Item: 0 item_haste
+ 11:03 Item: 0 item_enviro
+ 11:03 Item: 0 item_haste
+ 11:24 Item: 0 item_haste
+ 11:24 Item: 0 item_haste
+ 12:07 Item: 0 item_enviro
+ 12:07 Item: 0 item_haste
+ 12:22 Item: 0 item_enviro
+ 12:23 Item: 0 item_haste
+ 12:43 Item: 0 item_enviro
+ 12:43 Item: 0 item_haste
+ 13:16 Item: 0 item_enviro
+ 13:16 Item: 0 item_haste
+ 13:39 Item: 0 item_enviro
+ 13:39 Item: 0 item_haste
+ 14:00 Item: 0 item_enviro
+ 14:00 Item: 0 item_haste
+ 14:16 ShutdownGame:
+ 14:16 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\j4n_govno\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  1:12 ShutdownGame:
+  1:12 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\nosf-dervish\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:00 Item: 0 item_enviro
+  0:50 ShutdownGame:
+  0:50 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\gu3#10-Brakes\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:26 ShutdownGame:
+  0:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pht-ob2\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 weapon_plasmagun
+  0:01 Item: 0 item_enviro
+  0:01 Item: 0 item_haste
+  0:33 Item: 0 weapon_plasmagun
+  0:33 Item: 0 item_enviro
+  0:33 Item: 0 item_haste
+  0:50 Item: 0 weapon_plasmagun
+  0:50 Item: 0 item_enviro
+  0:50 Item: 0 item_haste
+  1:08 ShutdownGame:
+  1:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\proton\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:37 ShutdownGame:
+  0:37 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\chile9\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:00 Item: 0 item_enviro
+  0:00 Item: 0 weapon_rocketlauncher
+  0:08 Item: 0 item_enviro
+  0:08 Item: 0 weapon_rocketlauncher
+  0:24 ShutdownGame:
+  0:24 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\RunBeaMeR\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 ammo_cells
+  0:02 Item: 0 item_health_mega
+  0:02 Item: 0 ammo_cells
+  0:03 Item: 0 weapon_plasmagun
+  0:03 Item: 0 ammo_cells
+  0:03 Item: 0 ammo_cells
+  0:04 Item: 0 item_armor_body
+  0:04 Item: 0 ammo_cells
+  0:05 Item: 0 item_health_mega
+  0:05 Item: 0 ammo_cells
+  0:06 Item: 0 item_armor_body
+  0:07 Item: 0 ammo_cells
+  0:15 Item: 0 item_armor_body
+  0:19 Item: 0 item_armor_body
+  0:24 Item: 0 item_armor_body
+  0:29 Item: 0 item_armor_body
+  0:43 Item: 0 weapon_plasmagun
+  0:43 Item: 0 ammo_cells
+  0:43 Item: 0 item_health_mega
+  0:44 Item: 0 ammo_cells
+  0:44 Item: 0 ammo_cells
+  0:45 Item: 0 item_armor_body
+  0:45 Item: 0 ammo_cells
+  0:49 ShutdownGame:
+  0:49 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\rdk-spiral\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:13 ShutdownGame:
+  0:13 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\rdk-spiral\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  4:57 ShutdownGame:
+  4:57 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\Pea_AerOBlah\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:38 ShutdownGame:
+  0:38 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\mrd4\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:09 ShutdownGame:
+  0:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\gu3#9-Paperboy\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:29 ShutdownGame:
+  0:29 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-slopin\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 item_haste
+  0:01 Item: 0 item_enviro
+  0:44 Item: 0 item_enviro
+  0:44 Item: 0 item_haste
+  1:04 Item: 0 item_enviro
+  1:04 Item: 0 item_haste
+ 13:53 Item: 0 item_enviro
+ 13:53 Item: 0 item_haste
+ 14:19 Item: 0 item_enviro
+ 14:19 Item: 0 item_haste
+ 14:38 Item: 0 item_enviro
+ 14:39 Item: 0 item_haste
+ 15:57 Item: 0 item_enviro
+ 15:57 Item: 0 item_haste
+ 16:15 Item: 0 item_enviro
+ 16:15 Item: 0 item_haste
+ 16:36 Item: 0 item_enviro
+ 17:42 ShutdownGame:
+ 17:42 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\dustballs\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  1:02 ShutdownGame:
+  1:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\Lick-HQ\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  5:01 ShutdownGame:
+  5:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\cpm_2\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:30 ShutdownGame:
+  0:30 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\cpm_2\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:09 ShutdownGame:
+  0:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\cyb-GPLeap_fixed\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 item_haste
+  0:12 Item: 0 item_haste
+  0:19 Item: 0 item_haste
+  0:25 Item: 0 item_haste
+  0:30 ShutdownGame:
+  0:30 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\cpmjump\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:23 ShutdownGame:
+  0:23 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\4\protocol\68\mapname\q3wcp1\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\3\defrag_mode\2\defrag_flags\0\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 0
+  0:06 Item: 0 team_CTF_blueflag
+  0:09 Item: 0 team_CTF_blueflag
+  0:26 Item: 0 team_CTF_redflag
+  0:36 ShutdownGame:
+  0:36 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\Pea_AerOBlah\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 ShutdownGame:
+  0:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\vanilla_01\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 weapon_rocketlauncher
+  0:07 Item: 0 item_enviro
+  0:20 Item: 0 weapon_rocketlauncher
+  0:21 Item: 0 item_enviro
+  0:29 Item: 0 weapon_rocketlauncher
+  0:30 Item: 0 item_enviro
+  0:37 Item: 0 weapon_rocketlauncher
+  0:38 Item: 0 item_enviro
+  0:43 Item: 0 weapon_rocketlauncher
+  0:44 Item: 0 item_enviro
+  0:49 Item: 0 weapon_rocketlauncher
+  0:51 Item: 0 item_enviro
+  0:56 Item: 0 weapon_rocketlauncher
+  0:59 Item: 0 item_enviro
+  1:05 Item: 0 item_enviro
+  1:06 Item: 0 weapon_rocketlauncher
+  1:12 Item: 0 weapon_rocketlauncher
+  1:13 Item: 0 item_enviro
+  1:19 Item: 0 weapon_rocketlauncher
+  1:20 Item: 0 item_enviro
+  1:27 Item: 0 weapon_rocketlauncher
+  1:28 Item: 0 item_enviro
+  1:29 ShutdownGame:
+  1:29 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\simple-eye\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:43 ShutdownGame:
+  0:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-slopin\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:33 Item: 0 item_enviro
+  0:33 Item: 0 item_haste
+  0:48 Item: 0 item_enviro
+  0:48 Item: 0 item_haste
+  3:02 Item: 0 item_enviro
+  3:02 Item: 0 item_haste
+  3:25 Item: 0 item_enviro
+  3:25 Item: 0 item_enviro
+  3:25 Item: 0 item_haste
+  3:25 Item: 0 item_haste
+  3:44 Item: 0 item_enviro
+  3:44 Item: 0 item_haste
+  4:18 Item: 0 item_enviro
+  4:18 Item: 0 item_haste
+  4:40 Item: 0 item_enviro
+  4:40 Item: 0 item_haste
+  5:02 Item: 0 item_enviro
+  5:02 Item: 0 item_haste
+  5:03 ShutdownGame:
+  5:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-kaine\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  1:40 ShutdownGame:
+  1:40 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\runstrafe3\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  2:14 ShutdownGame:
+  2:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\revisit_runzlaugh2err5\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 weapon_rocketlauncher
+  0:07 Item: 0 item_armor_body
+  0:08 Item: 0 weapon_rocketlauncher
+  0:08 Item: 0 item_health_mega
+  0:17 ShutdownGame:
+  0:17 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\0\timelimit\0\sv_hostname\noname\sv_maxclients\8\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\sv_minRate\0\sv_dlRate\100\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\tr1ckhouse-beta3\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\0\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\2\defrag_mode\2\defrag_flags\0\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+ 15:59 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+ 16:15 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+ 22:51 ShutdownGame:
+ 22:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_dlRate\100\sv_minRate\0\capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_maxclients\8\sv_hostname\noname\timelimit\0\fraglimit\0\version\CNQ3 was cool ^zbut now ^8it's time for^0 h4x0r Q3 Oct 11 2016\dmflags\0\g_gametype\0\protocol\68\mapname\pornstar-slopin\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\df_promode\1\gamename\defrag\g_needpass\0\defrag_vers\19124\defrag_gametype\1\defrag_mode\-1\defrag_flags\2\o3j_version\1016
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 Item: 0 item_enviro
+  0:01 Item: 0 item_haste
+  0:18 Item: 0 item_enviro
+  0:18 Item: 0 item_haste
+  0:35 Item: 0 item_enviro
+  0:35 Item: 0 item_haste
+  1:15 Item: 0 item_enviro
+  1:15 Item: 0 item_enviro
+  1:15 Item: 0 item_enviro
+  1:34 Item: 0 item_enviro
+  1:34 Item: 0 item_haste
+  1:58 Item: 0 item_haste
+  1:58 Item: 0 item_haste
+  1:58 Item: 0 item_haste
+  2:28 Item: 0 item_enviro
+  2:28 Item: 0 item_haste
+  2:43 Item: 0 item_enviro
+  2:44 Item: 0 item_haste
+  3:00 Item: 0 item_enviro
+  3:00 Item: 0 item_haste
+  3:28 Item: 0 item_enviro
+  3:28 Item: 0 item_haste
+  3:54 Item: 0 item_enviro
+  3:54 Item: 0 item_enviro
+  3:54 Item: 0 item_enviro
+  3:55 Item: 0 item_haste
+  4:05 Item: 0 item_enviro
+  4:05 Item: 0 item_haste
+  4:47 ClientUserinfoChanged: 0 n\UnnamedPlayer\dfn\UnnamedPlayer\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0
+  4:48 Item: 0 item_enviro
+  4:48 Item: 0 item_haste
+  5:04 Item: 0 item_enviro
+  5:04 Item: 0 item_haste
+  5:27 Item: 0 item_haste
+  5:27 Item: 0 item_haste
+  5:27 Item: 0 item_haste
+  5:38 Item: 0 item_enviro
+  5:39 Item: 0 item_haste
+  6:03 Item: 0 item_enviro
+  6:03 Item: 0 item_haste
+  6:27 Item: 0 item_enviro
+  6:27 Item: 0 item_enviro
+  6:27 Item: 0 item_enviro
+  6:47 Item: 0 item_enviro
+  6:48 Item: 0 item_haste
+  7:07 ShutdownGame:
+  7:07 ------------------------------------------------------------
